@@ -8,7 +8,7 @@ st.set_page_config(page_title="Lulu Dubai Sales Dashboard", layout="wide")
 # Load Data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('lulu_dubai_synthetic_sales_data.csv')
+    df = pd.read_csv('lulu.csv')
     df['Transaction_Date'] = pd.to_datetime(df['Transaction_Date'])
     return df
 
