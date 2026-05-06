@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,Customer_Segment,Product_Category,Sales_Amount_AED,Monthly_Visit_Frequency,Transaction_Date,Payment_Method,Store_Location,Country
+LULU-10472,Mohammed Abbas,Premium,Electronics,11195.856,2,2024-07-16,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10844,Fatima Al-Harbi,Premium,Electronics,11009.194,1,2024-11-02,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10284,Mariam Al-Maktoum,Premium,Electronics,10980.452,2,2024-05-13,Credit Card,Al Barsha,United Arab Emirates
+LULU-10488,Reem Ibrahim,Premium,Electronics,10694.488,1,2024-04-22,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10833,Aisha Ibrahim,Premium,Electronics,9531.564,2,2024-01-28,Cash,Jumeirah,United Arab Emirates
+LULU-10981,Layla Al-Rashid,Premium,Electronics,9160.367999999999,1,2024-07-01,Debit Card,Jumeirah,United Arab Emirates
+LULU-10832,Mariam Al-Rashid,Premium,Electronics,9098.46,2,2024-08-16,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10283,Abdullah Al-Rashid,Premium,Electronics,9018.632,2,2024-08-07,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10411,Aisha Al-Rashid,Premium,Electronics,8680.658,2,2024-04-06,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10077,Sara Mansoor,Loyalty,Electronics,8580.517000000002,4,2024-09-17,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10192,Noora Al-Harbi,Premium,Electronics,8544.367999999999,2,2024-01-10,Cash,Muwaileh,United Arab Emirates
+LULU-10274,Youssef Al-Farsi,Loyalty,Electronics,8462.498000000001,4,2024-09-13,Credit Card,Jumeirah,United Arab Emirates
+LULU-10494,Youssef Al-Rashid,Premium,Electronics,8431.752,1,2024-04-03,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10183,Layla Al-Farsi,Premium,Electronics,8317.652,1,2024-01-18,Cash,Muwaileh,United Arab Emirates
+LULU-10603,Layla Malik,Premium,Electronics,8138.059999999999,2,2024-02-23,Lulu Pay,Deira,United Arab Emirates
+LULU-10983,Noora Al-Maktoum,Loyalty,Electronics,8127.273000000001,4,2024-01-14,Cash,Al Qusais,United Arab Emirates
+LULU-10631,Mariam Malik,Standard,Electronics,7984.55,2,2024-07-14,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10309,Zainab Ibrahim,Premium,Electronics,7954.6179999999995,2,2024-08-22,Cash,Jumeirah,United Arab Emirates
+LULU-10450,Omar Abbas,Standard,Electronics,7877.43,1,2024-12-11,Cash,Al Qusais,United Arab Emirates
+LULU-10189,Fatima Al-Harbi,Premium,Electronics,7714.028,1,2024-09-17,Credit Card,Al Qusais,United Arab Emirates
+LULU-10741,Omar Al-Rashid,Loyalty,Electronics,7699.791000000001,3,2024-03-06,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10317,Aisha Al-Rashid,Budget,Electronics,7677.03,1,2024-09-20,Credit Card,Al Qusais,United Arab Emirates
+LULU-10839,Omar Al-Rashid,Standard,Electronics,7659.96,1,2024-09-23,Credit Card,Muwaileh,United Arab Emirates
+LULU-10630,Ahmed Al-Rashid,Standard,Electronics,7653.92,2,2024-06-16,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10635,Sara Ibrahim,Loyalty,Electronics,7585.578,4,2024-07-23,Credit Card,Muwaileh,United Arab Emirates
+LULU-10315,Layla Al-Maktoum,Premium,Electronics,7543.843999999999,1,2024-11-25,Debit Card,Jumeirah,United Arab Emirates
+LULU-10554,Sara Al-Rashid,Standard,Electronics,7539.41,1,2024-12-05,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10843,Khaled Abbas,Premium,Electronics,7426.202,1,2024-02-17,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10643,Youssef Al-Rashid,Standard,Electronics,7420.22,1,2024-04-25,Credit Card,Deira,United Arab Emirates
+LULU-10668,Sara Al-Harbi,Standard,Electronics,7342.12,1,2024-06-25,Credit Card,Al Qusais,United Arab Emirates
+LULU-10667,Hamad Al-Sayed,Premium,Electronics,7144.647999999999,2,2024-06-23,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10185,Sara Al-Maktoum,Standard,Electronics,7143.05,2,2024-01-27,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10762,Zainab Al-Harbi,Loyalty,Electronics,6969.809,3,2024-12-10,Credit Card,Deira,United Arab Emirates
+LULU-10751,Mariam Ibrahim,Standard,Electronics,6952.55,1,2024-01-28,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10904,Fatima Abbas,Standard,Electronics,6838.19,2,2024-11-06,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10380,Reem Al-Harbi,Loyalty,Electronics,6826.402,3,2024-05-02,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10885,Hamad Al-Farsi,Premium,Electronics,6816.347999999999,2,2024-07-21,Cash,Al Qusais,United Arab Emirates
+LULU-10179,Mariam Ibrahim,Standard,Electronics,6802.92,2,2024-08-15,Credit Card,Deira,United Arab Emirates
+LULU-10533,Reem Al-Maktoum,Loyalty,Electronics,6702.432000000001,4,2024-11-28,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10648,Youssef Mansoor,Premium,Electronics,6692.028,2,2024-03-10,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10449,Mohammed Malik,Standard,Electronics,6655.43,1,2024-12-12,Debit Card,Deira,United Arab Emirates
+LULU-10792,Sara Al-Sayed,Premium,Electronics,6642.705999999999,2,2024-05-23,Lulu Pay,Deira,United Arab Emirates
+LULU-10937,Reem Khan,Budget,Electronics,6612.29,2,2024-02-13,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10823,Mohammed Al-Farsi,Loyalty,Electronics,6548.993,4,2024-03-26,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10367,Ahmed Malik,Premium,Electronics,6537.776,2,2024-12-02,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10673,Mariam Abbas,Budget,Electronics,6397.57,2,2024-03-22,Debit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10900,Youssef Al-Maktoum,Premium,Electronics,6368.124,1,2024-10-18,Credit Card,Muwaileh,United Arab Emirates
+LULU-10831,Omar Ibrahim,Premium,Electronics,6363.8679999999995,1,2024-01-27,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10564,Fatima Al-Maktoum,Standard,Electronics,6293.27,2,2024-09-03,Credit Card,Jumeirah,United Arab Emirates
+LULU-10162,Mustafa Ibrahim,Standard,Electronics,6259.46,1,2024-01-23,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10220,Mustafa Abbas,Loyalty,Electronics,6104.2080000000005,4,2024-05-15,Credit Card,Al Qusais,United Arab Emirates
+LULU-10566,Noora Al-Harbi,Premium,Electronics,6062.084,2,2024-01-17,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10523,Noora Al-Farsi,Standard,Electronics,6026.79,1,2024-10-01,Credit Card,Al Qusais,United Arab Emirates
+LULU-10407,Fatima Al-Maktoum,Budget,Electronics,6001.46,2,2024-05-16,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10492,Mohammed Abbas,Loyalty,Electronics,5979.204000000001,4,2024-09-03,Credit Card,Deira,United Arab Emirates
+LULU-10553,Reem Abbas,Budget,Electronics,5894.82,1,2024-11-25,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10664,Youssef Mansoor,Loyalty,Electronics,5893.250000000001,3,2024-06-12,Credit Card,Jumeirah,United Arab Emirates
+LULU-10699,Reem Khan,Loyalty,Electronics,5854.200000000001,3,2024-02-24,Cash,Deira,United Arab Emirates
+LULU-10385,Aisha Mansoor,Loyalty,Electronics,5812.719,4,2024-11-25,Credit Card,Deira,United Arab Emirates
+LULU-10897,Youssef Malik,Premium,Electronics,5811.847999999999,2,2024-02-27,Credit Card,Al Qusais,United Arab Emirates
+LULU-10838,Zainab Abbas,Premium,Electronics,5786.858,2,2024-04-05,Cash,Jumeirah,United Arab Emirates
+LULU-10721,Aisha Abbas,Loyalty,Electronics,5727.557000000001,4,2024-08-19,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10133,Hamad Malik,Premium,Electronics,5723.339999999999,1,2024-10-11,Debit Card,Al Qusais,United Arab Emirates
+LULU-10457,Mariam Mansoor,Premium,Electronics,5720.316,1,2024-02-19,Cash,Al Barsha,United Arab Emirates
+LULU-10254,Youssef Mansoor,Standard,Electronics,5555.09,1,2024-07-18,Credit Card,Al Barsha,United Arab Emirates
+LULU-10587,Abdullah Ibrahim,Budget,Electronics,5499.15,2,2024-02-17,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10956,Youssef Abbas,Loyalty,Electronics,5463.150000000001,3,2024-07-26,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10023,Hamad Ibrahim,Standard,Electronics,5462.17,2,2024-12-22,Credit Card,Al Barsha,United Arab Emirates
+LULU-10390,Fatima Al-Sayed,Loyalty,Electronics,5453.173000000001,3,2024-04-26,Credit Card,Muwaileh,United Arab Emirates
+LULU-10504,Mustafa Malik,Budget,Electronics,5443.76,1,2024-02-16,Credit Card,Al Qusais,United Arab Emirates
+LULU-10944,Mariam Al-Sayed,Loyalty,Electronics,5353.81,4,2024-07-28,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10731,Mustafa Ibrahim,Budget,Electronics,5263.35,2,2024-04-09,Lulu Pay,Deira,United Arab Emirates
+LULU-10207,Khaled Al-Sayed,Budget,Electronics,5137.72,2,2024-02-28,Credit Card,Al Barsha,United Arab Emirates
+LULU-10801,Zainab Malik,Premium,Electronics,5136.32,1,2024-12-02,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10642,Noora Al-Maktoum,Loyalty,Electronics,5113.394,3,2024-04-19,Credit Card,Jumeirah,United Arab Emirates
+LULU-10013,Abdullah Al-Farsi,Premium,Electronics,5059.166,1,2024-12-08,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10481,Fatima Al-Sayed,Budget,Electronics,4972.89,2,2024-03-21,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10521,Aisha Al-Maktoum,Premium,Electronics,4930.128,1,2024-07-15,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10513,Ahmed Al-Harbi,Premium,Electronics,4919.235999999999,2,2024-11-24,Cash,Al Barsha,United Arab Emirates
+LULU-10506,Aisha Al-Maktoum,Budget,Electronics,4889.42,1,2024-10-17,Debit Card,Muwaileh,United Arab Emirates
+LULU-10519,Aisha Ibrahim,Budget,Electronics,4847.07,2,2024-06-01,Credit Card,Muwaileh,United Arab Emirates
+LULU-10505,Abdullah Malik,Standard,Electronics,4707.76,1,2024-08-14,Credit Card,Muwaileh,United Arab Emirates
+LULU-10659,Zainab Abbas,Budget,Electronics,4701.89,2,2024-09-14,Credit Card,Deira,United Arab Emirates
+LULU-10816,Mohammed Ibrahim,Budget,Electronics,4652.62,2,2024-08-08,Credit Card,Muwaileh,United Arab Emirates
+LULU-10323,Noora Khan,Premium,Electronics,4608.072,2,2024-08-10,Credit Card,Muwaileh,United Arab Emirates
+LULU-10878,Fatima Ibrahim,Loyalty,Electronics,4589.684,4,2024-09-27,Cash,Jumeirah,United Arab Emirates
+LULU-10388,Mustafa Al-Harbi,Loyalty,Electronics,4578.849,3,2024-01-06,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10327,Mohammed Al-Harbi,Premium,Electronics,4467.442,1,2024-05-26,Debit Card,Jumeirah,United Arab Emirates
+LULU-10534,Reem Al-Rashid,Loyalty,Electronics,4361.467000000001,4,2024-01-09,Credit Card,Deira,United Arab Emirates
+LULU-10217,Youssef Abbas,Budget,Electronics,4265.71,2,2024-12-12,Lulu Pay,Deira,United Arab Emirates
+LULU-10770,Omar Khan,Loyalty,Electronics,4247.397,3,2024-06-11,Debit Card,Jumeirah,United Arab Emirates
+LULU-10404,Mohammed Abbas,Standard,Electronics,4149.3,1,2024-04-07,Debit Card,Al Barsha,United Arab Emirates
+LULU-10857,Hamad Khan,Standard,Electronics,4132.3,1,2024-03-10,Cash,Al Barsha,United Arab Emirates
+LULU-10259,Layla Ibrahim,Standard,Electronics,4107.72,1,2024-11-06,Credit Card,Deira,United Arab Emirates
+LULU-10503,Ahmed Al-Maktoum,Premium,Electronics,4051.0959999999995,1,2024-11-16,Debit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10586,Aisha Malik,Premium,Electronics,3988.6279999999997,2,2024-11-13,Cash,Al Barsha,United Arab Emirates
+LULU-10021,Youssef Al-Rashid,Loyalty,Electronics,3960.9020000000005,4,2024-08-09,Cash,Muwaileh,United Arab Emirates
+LULU-10829,Ahmed Al-Maktoum,Premium,Electronics,3936.3379999999997,1,2024-07-08,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10495,Mariam Al-Maktoum,Budget,Electronics,3926.19,1,2024-10-09,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10341,Mustafa Ibrahim,Premium,Electronics,3776.444,1,2024-12-16,Credit Card,Deira,United Arab Emirates
+LULU-10500,Zainab Malik,Budget,Electronics,3625.79,2,2024-11-21,Debit Card,Deira,United Arab Emirates
+LULU-10923,Fatima Al-Maktoum,Premium,Electronics,3600.898,2,2024-09-18,Cash,Jumeirah,United Arab Emirates
+LULU-10784,Omar Al-Farsi,Loyalty,Electronics,3348.004,4,2024-03-12,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10862,Abdullah Ibrahim,Loyalty,Electronics,3342.5150000000003,3,2024-04-08,Credit Card,Muwaileh,United Arab Emirates
+LULU-10198,Zainab Al-Maktoum,Standard,Electronics,3282.4,1,2024-11-01,Credit Card,Muwaileh,United Arab Emirates
+LULU-10248,Aisha Al-Farsi,Budget,Electronics,3272.06,2,2024-10-25,Cash,Deira,United Arab Emirates
+LULU-10539,Khaled Ibrahim,Budget,Electronics,3261.13,2,2024-08-27,Credit Card,Jumeirah,United Arab Emirates
+LULU-10899,Youssef Al-Farsi,Loyalty,Electronics,3170.5520000000006,4,2024-02-12,Cash,Al Qusais,United Arab Emirates
+LULU-10012,Reem Ibrahim,Premium,Electronics,3154.41,1,2024-09-08,Cash,Al Barsha,United Arab Emirates
+LULU-10663,Zainab Mansoor,Standard,Electronics,3148.63,1,2024-11-16,Credit Card,Deira,United Arab Emirates
+LULU-10926,Omar Al-Farsi,Standard,Electronics,2970.8,2,2024-03-20,Credit Card,Al Barsha,United Arab Emirates
+LULU-10675,Khaled Ibrahim,Standard,Electronics,2969.22,2,2024-10-26,Credit Card,Al Qusais,United Arab Emirates
+LULU-10279,Khaled Al-Maktoum,Loyalty,Electronics,2921.0280000000002,4,2024-12-01,Cash,Al Barsha,United Arab Emirates
+LULU-10681,Hamad Al-Harbi,Premium,Electronics,2617.622,1,2024-06-22,Credit Card,Muwaileh,United Arab Emirates
+LULU-10391,Layla Khan,Standard,Electronics,2540.16,2,2024-06-27,Credit Card,Jumeirah,United Arab Emirates
+LULU-10208,Hamad Al-Sayed,Premium,Electronics,2402.1479999999997,2,2024-10-22,Credit Card,Muwaileh,United Arab Emirates
+LULU-10992,Fatima Al-Harbi,Budget,Electronics,2384.37,2,2024-05-28,Debit Card,Al Qusais,United Arab Emirates
+LULU-10679,Abdullah Khan,Standard,Electronics,2381.97,1,2024-08-07,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10625,Ahmed Ibrahim,Loyalty,Electronics,2303.323,4,2024-02-18,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10091,Mustafa Al-Maktoum,Loyalty,Electronics,2300.6610000000005,4,2024-04-25,Cash,Deira,United Arab Emirates
+LULU-10152,Aisha Al-Harbi,Budget,Electronics,2192.76,2,2024-05-27,Debit Card,Muwaileh,United Arab Emirates
+LULU-10170,Abdullah Abbas,Loyalty,Electronics,2150.7090000000003,4,2024-04-17,Cash,Jumeirah,United Arab Emirates
+LULU-10726,Layla Al-Maktoum,Loyalty,Electronics,2085.446,3,2024-02-17,Credit Card,Jumeirah,United Arab Emirates
+LULU-10805,Aisha Al-Rashid,Standard,Electronics,2047.72,1,2024-11-05,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10759,Reem Khan,Loyalty,Electronics,2041.3360000000002,4,2024-09-05,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10113,Ahmed Malik,Loyalty,Electronics,2020.535,4,2024-08-10,Cash,Al Qusais,United Arab Emirates
+LULU-10318,Hamad Abbas,Loyalty,Electronics,1822.9750000000001,4,2024-06-13,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10709,Youssef Al-Rashid,Budget,Electronics,1805.32,2,2024-11-14,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10959,Hamad Ibrahim,Budget,Electronics,1704.83,1,2024-03-22,Credit Card,Al Barsha,United Arab Emirates
+LULU-10350,Reem Ibrahim,Standard,Electronics,1702.25,1,2024-02-02,Credit Card,Deira,United Arab Emirates
+LULU-10740,Aisha Malik,Loyalty,Electronics,1698.73,4,2024-08-09,Credit Card,Al Barsha,United Arab Emirates
+LULU-10245,Zainab Al-Maktoum,Standard,Electronics,1549.16,1,2024-05-28,Debit Card,Deira,United Arab Emirates
+LULU-10109,Fatima Abbas,Premium,Home Appliances,6285.79,2,2024-02-20,Debit Card,Deira,United Arab Emirates
+LULU-10278,Ahmed Al-Rashid,Premium,Home Appliances,6215.453999999999,1,2024-09-03,Credit Card,Deira,United Arab Emirates
+LULU-10744,Zainab Mansoor,Premium,Home Appliances,6015.226,1,2024-09-23,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10827,Hamad Abbas,Premium,Home Appliances,5950.7,2,2024-12-16,Credit Card,Muwaileh,United Arab Emirates
+LULU-10761,Noora Al-Farsi,Premium,Home Appliances,5931.226,1,2024-01-24,Credit Card,Jumeirah,United Arab Emirates
+LULU-10164,Youssef Al-Sayed,Premium,Home Appliances,5912.788,1,2024-10-21,Cash,Muwaileh,United Arab Emirates
+LULU-10356,Noora Al-Farsi,Premium,Home Appliances,5875.632,1,2024-06-16,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10337,Mohammed Al-Harbi,Premium,Home Appliances,5378.492,2,2024-11-19,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10238,Fatima Abbas,Premium,Home Appliances,5083.6939999999995,2,2024-06-19,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10406,Reem Khan,Loyalty,Home Appliances,4834.137000000001,3,2024-07-16,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10233,Omar Khan,Loyalty,Home Appliances,4800.818,3,2024-02-01,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10868,Abdullah Al-Harbi,Premium,Home Appliances,4509.512,1,2024-02-12,Cash,Muwaileh,United Arab Emirates
+LULU-10710,Khaled Malik,Premium,Home Appliances,4444.621999999999,1,2024-09-08,Lulu Pay,Deira,United Arab Emirates
+LULU-10551,Reem Khan,Premium,Home Appliances,4350.99,2,2024-04-23,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10287,Layla Al-Maktoum,Budget,Home Appliances,4334.74,1,2024-08-09,Debit Card,Al Qusais,United Arab Emirates
+LULU-10965,Ahmed Mansoor,Standard,Home Appliances,4327.27,1,2024-04-06,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10392,Mariam Al-Rashid,Loyalty,Home Appliances,4280.408,3,2024-10-28,Credit Card,Muwaileh,United Arab Emirates
+LULU-10946,Mariam Ibrahim,Loyalty,Home Appliances,4257.858,4,2024-05-22,Lulu Pay,Deira,United Arab Emirates
+LULU-10422,Khaled Al-Rashid,Standard,Home Appliances,4244.28,1,2024-01-11,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10547,Mariam Malik,Loyalty,Home Appliances,4239.444,4,2024-08-11,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10089,Ahmed Ibrahim,Premium,Home Appliances,4175.976,1,2024-07-15,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10961,Sara Al-Rashid,Budget,Home Appliances,4158.72,2,2024-10-20,Credit Card,Deira,United Arab Emirates
+LULU-10907,Abdullah Al-Maktoum,Premium,Home Appliances,4137.014,2,2024-04-20,Credit Card,Jumeirah,United Arab Emirates
+LULU-10214,Ahmed Al-Harbi,Loyalty,Home Appliances,4094.0680000000007,3,2024-03-12,Cash,Al Qusais,United Arab Emirates
+LULU-10563,Reem Al-Rashid,Budget,Home Appliances,4066.78,2,2024-11-07,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10277,Reem Mansoor,Loyalty,Home Appliances,4057.7020000000007,4,2024-09-02,Cash,Al Qusais,United Arab Emirates
+LULU-10723,Mohammed Ibrahim,Loyalty,Home Appliances,3871.5490000000004,4,2024-01-23,Credit Card,Muwaileh,United Arab Emirates
+LULU-10116,Reem Al-Farsi,Loyalty,Home Appliances,3854.6310000000003,3,2024-02-12,Credit Card,Al Barsha,United Arab Emirates
+LULU-10812,Sara Al-Farsi,Loyalty,Home Appliances,3843.0150000000003,3,2024-04-16,Credit Card,Jumeirah,United Arab Emirates
+LULU-10757,Mohammed Al-Harbi,Standard,Home Appliances,3834.94,2,2024-01-11,Cash,Al Qusais,United Arab Emirates
+LULU-10151,Ahmed Ibrahim,Standard,Home Appliances,3815.7,1,2024-06-02,Cash,Al Barsha,United Arab Emirates
+LULU-10018,Ahmed Al-Maktoum,Budget,Home Appliances,3773.59,2,2024-04-11,Credit Card,Deira,United Arab Emirates
+LULU-10646,Layla Mansoor,Budget,Home Appliances,3724.93,2,2024-09-04,Credit Card,Jumeirah,United Arab Emirates
+LULU-10161,Reem Khan,Standard,Home Appliances,3723.05,1,2024-07-17,Credit Card,Muwaileh,United Arab Emirates
+LULU-10186,Reem Al-Sayed,Loyalty,Home Appliances,3718.704,4,2024-04-27,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10159,Mariam Malik,Loyalty,Home Appliances,3681.7990000000004,4,2024-09-07,Credit Card,Al Qusais,United Arab Emirates
+LULU-10835,Sara Abbas,Loyalty,Home Appliances,3633.8280000000004,4,2024-11-10,Cash,Jumeirah,United Arab Emirates
+LULU-10811,Sara Al-Rashid,Loyalty,Home Appliances,3593.414,3,2024-09-12,Cash,Al Qusais,United Arab Emirates
+LULU-10293,Hamad Mansoor,Loyalty,Home Appliances,3567.4320000000002,4,2024-08-10,Credit Card,Deira,United Arab Emirates
+LULU-10813,Ahmed Mansoor,Loyalty,Home Appliances,3559.314,4,2024-02-21,Lulu Pay,Deira,United Arab Emirates
+LULU-10893,Khaled Al-Maktoum,Standard,Home Appliances,3546.51,1,2024-11-26,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10725,Mariam Khan,Standard,Home Appliances,3518.05,1,2024-11-14,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10375,Noora Al-Sayed,Standard,Home Appliances,3441.92,2,2024-01-13,Lulu Pay,Deira,United Arab Emirates
+LULU-10445,Noora Al-Harbi,Budget,Home Appliances,3418.57,2,2024-10-17,Debit Card,Deira,United Arab Emirates
+LULU-10114,Mariam Malik,Standard,Home Appliances,3332.91,2,2024-01-05,Credit Card,Al Barsha,United Arab Emirates
+LULU-10746,Fatima Ibrahim,Standard,Home Appliances,3325.81,1,2024-11-08,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10363,Omar Al-Farsi,Loyalty,Home Appliances,3317.842,3,2024-05-09,Debit Card,Deira,United Arab Emirates
+LULU-10303,Zainab Al-Harbi,Loyalty,Home Appliances,3282.719,4,2024-03-22,Cash,Jumeirah,United Arab Emirates
+LULU-10730,Sara Al-Maktoum,Loyalty,Home Appliances,3273.1270000000004,4,2024-06-09,Credit Card,Al Qusais,United Arab Emirates
+LULU-10561,Zainab Al-Harbi,Loyalty,Home Appliances,3258.9150000000004,3,2024-06-02,Debit Card,Al Qusais,United Arab Emirates
+LULU-10984,Hamad Abbas,Loyalty,Home Appliances,3253.9320000000002,3,2024-09-27,Debit Card,Al Qusais,United Arab Emirates
+LULU-10236,Zainab Al-Farsi,Loyalty,Home Appliances,3229.1490000000003,4,2024-12-02,Debit Card,Muwaileh,United Arab Emirates
+LULU-10532,Mustafa Ibrahim,Loyalty,Home Appliances,3155.3720000000003,3,2024-03-19,Credit Card,Muwaileh,United Arab Emirates
+LULU-10263,Layla Mansoor,Standard,Home Appliances,3149.35,1,2024-09-23,Cash,Muwaileh,United Arab Emirates
+LULU-10355,Noora Mansoor,Loyalty,Home Appliances,3104.86,3,2024-03-14,Cash,Al Barsha,United Arab Emirates
+LULU-10676,Ahmed Abbas,Loyalty,Home Appliances,3083.3990000000003,4,2024-08-19,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10810,Hamad Ibrahim,Budget,Home Appliances,2955.94,1,2024-02-12,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10546,Khaled Abbas,Premium,Home Appliances,2793.2799999999997,2,2024-11-24,Credit Card,Jumeirah,United Arab Emirates
+LULU-10977,Reem Al-Maktoum,Standard,Home Appliances,2752.72,1,2024-04-10,Credit Card,Jumeirah,United Arab Emirates
+LULU-10223,Hamad Ibrahim,Premium,Home Appliances,2736.93,2,2024-02-03,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10870,Youssef Abbas,Standard,Home Appliances,2701.64,2,2024-04-07,Debit Card,Al Barsha,United Arab Emirates
+LULU-10780,Sara Abbas,Standard,Home Appliances,2663.65,2,2024-01-16,Debit Card,Muwaileh,United Arab Emirates
+LULU-10036,Omar Khan,Standard,Home Appliances,2600.95,2,2024-11-27,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10487,Reem Ibrahim,Premium,Home Appliances,2600.234,2,2024-09-19,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10429,Fatima Mansoor,Loyalty,Home Appliances,2572.295,4,2024-09-09,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10815,Zainab Khan,Standard,Home Appliances,2556.65,2,2024-10-23,Credit Card,Muwaileh,United Arab Emirates
+LULU-10419,Reem Al-Farsi,Premium,Home Appliances,2525.894,1,2024-02-18,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10417,Fatima Al-Maktoum,Budget,Home Appliances,2479.6,2,2024-08-22,Credit Card,Al Qusais,United Arab Emirates
+LULU-10837,Aisha Al-Farsi,Loyalty,Home Appliances,2456.003,3,2024-10-12,Debit Card,Al Qusais,United Arab Emirates
+LULU-10621,Sara Al-Rashid,Standard,Home Appliances,2421.25,1,2024-11-18,Credit Card,Deira,United Arab Emirates
+LULU-10605,Mustafa Al-Harbi,Standard,Home Appliances,2390.84,1,2024-04-22,Credit Card,Jumeirah,United Arab Emirates
+LULU-10039,Noora Al-Farsi,Standard,Home Appliances,2384.28,1,2024-03-28,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10940,Hamad Al-Harbi,Budget,Home Appliances,2320.49,2,2024-11-07,Debit Card,Al Qusais,United Arab Emirates
+LULU-10147,Youssef Ibrahim,Standard,Home Appliances,2314.82,2,2024-09-02,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10579,Omar Malik,Budget,Home Appliances,2290.27,2,2024-07-08,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10268,Noora Abbas,Loyalty,Home Appliances,2289.529,3,2024-09-01,Credit Card,Deira,United Arab Emirates
+LULU-10225,Noora Al-Rashid,Loyalty,Home Appliances,2251.601,4,2024-09-01,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10282,Mustafa Khan,Standard,Home Appliances,2232.19,1,2024-07-02,Credit Card,Jumeirah,United Arab Emirates
+LULU-10734,Layla Al-Maktoum,Premium,Home Appliances,2199.5119999999997,1,2024-08-03,Credit Card,Muwaileh,United Arab Emirates
+LULU-10071,Khaled Malik,Standard,Home Appliances,2171.38,2,2024-01-07,Debit Card,Deira,United Arab Emirates
+LULU-10165,Abdullah Al-Harbi,Premium,Home Appliances,2117.6679999999997,2,2024-02-27,Debit Card,Al Qusais,United Arab Emirates
+LULU-10253,Youssef Al-Harbi,Loyalty,Home Appliances,2109.382,4,2024-03-04,Cash,Al Qusais,United Arab Emirates
+LULU-10665,Mariam Ibrahim,Standard,Home Appliances,2068.1,2,2024-12-17,Lulu Pay,Deira,United Arab Emirates
+LULU-10243,Mariam Al-Farsi,Standard,Home Appliances,2062.62,2,2024-05-02,Cash,Deira,United Arab Emirates
+LULU-10288,Khaled Al-Farsi,Loyalty,Home Appliances,2017.0260000000003,4,2024-10-28,Lulu Pay,Deira,United Arab Emirates
+LULU-10978,Mariam Abbas,Premium,Home Appliances,2003.386,2,2024-01-16,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10545,Abdullah Abbas,Loyalty,Home Appliances,1936.4730000000002,4,2024-05-03,Lulu Pay,Deira,United Arab Emirates
+LULU-10649,Aisha Mansoor,Budget,Home Appliances,1870.93,1,2024-02-27,Cash,Al Qusais,United Arab Emirates
+LULU-10305,Layla Malik,Budget,Home Appliances,1828.24,1,2024-10-02,Credit Card,Al Qusais,United Arab Emirates
+LULU-10477,Layla Abbas,Budget,Home Appliances,1814.06,1,2024-09-09,Credit Card,Muwaileh,United Arab Emirates
+LULU-10199,Omar Abbas,Loyalty,Home Appliances,1695.463,3,2024-09-24,Credit Card,Deira,United Arab Emirates
+LULU-10118,Layla Al-Harbi,Loyalty,Home Appliances,1638.67,3,2024-11-14,Cash,Deira,United Arab Emirates
+LULU-10249,Sara Mansoor,Loyalty,Home Appliances,1631.256,3,2024-08-17,Cash,Al Qusais,United Arab Emirates
+LULU-10000,Noora Al-Harbi,Loyalty,Home Appliances,1626.5810000000001,4,2024-05-07,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10611,Zainab Al-Maktoum,Budget,Home Appliances,1625.33,1,2024-10-13,Cash,Jumeirah,United Arab Emirates
+LULU-10255,Zainab Al-Harbi,Budget,Home Appliances,1601.94,1,2024-06-16,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10528,Abdullah Al-Farsi,Budget,Home Appliances,1552.71,2,2024-03-22,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10887,Noora Abbas,Premium,Home Appliances,1393.0839999999998,2,2024-09-12,Credit Card,Al Barsha,United Arab Emirates
+LULU-10382,Mustafa Abbas,Loyalty,Home Appliances,1380.621,3,2024-09-23,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10053,Khaled Al-Harbi,Loyalty,Home Appliances,1369.071,3,2024-12-05,Credit Card,Muwaileh,United Arab Emirates
+LULU-10640,Abdullah Al-Sayed,Loyalty,Home Appliances,1236.499,4,2024-04-28,Credit Card,Deira,United Arab Emirates
+LULU-10276,Mohammed Al-Sayed,Standard,Home Appliances,1190.96,2,2024-11-02,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10140,Hamad Al-Maktoum,Loyalty,Home Appliances,1187.296,3,2024-10-10,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10107,Zainab Malik,Standard,Home Appliances,1176.6,2,2024-06-23,Cash,Muwaileh,United Arab Emirates
+LULU-10319,Zainab Malik,Loyalty,Home Appliances,1108.47,3,2024-10-19,Credit Card,Jumeirah,United Arab Emirates
+LULU-10557,Reem Al-Sayed,Loyalty,Home Appliances,1101.375,3,2024-09-09,Credit Card,Muwaileh,United Arab Emirates
+LULU-10993,Layla Abbas,Budget,Home Appliances,1028.2,2,2024-09-25,Debit Card,Jumeirah,United Arab Emirates
+LULU-10076,Aisha Malik,Standard,Home Appliances,959.69,1,2024-06-21,Debit Card,Jumeirah,United Arab Emirates
+LULU-10890,Mariam Al-Sayed,Standard,Home Appliances,927.19,2,2024-06-21,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10970,Zainab Abbas,Loyalty,Home Appliances,882.5520000000001,3,2024-08-16,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10099,Mariam Malik,Standard,Home Appliances,809.6,2,2024-01-08,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10354,Sara Al-Sayed,Budget,Home Appliances,800.7,1,2024-11-02,Cash,Muwaileh,United Arab Emirates
+LULU-10938,Reem Ibrahim,Premium,Apparel,1656.088,3,2024-09-02,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10683,Aisha Mansoor,Premium,Apparel,1634.906,2,2024-09-22,Cash,Al Barsha,United Arab Emirates
+LULU-10435,Layla Al-Sayed,Premium,Apparel,1626.338,4,2024-10-06,Lulu Pay,Deira,United Arab Emirates
+LULU-10229,Noora Mansoor,Premium,Apparel,1582.7979999999998,1,2024-01-17,Cash,Deira,United Arab Emirates
+LULU-10374,Youssef Ibrahim,Premium,Apparel,1576.26,1,2024-01-08,Cash,Deira,United Arab Emirates
+LULU-10304,Abdullah Al-Farsi,Premium,Apparel,1499.3999999999999,1,2024-08-10,Cash,Al Barsha,United Arab Emirates
+LULU-10952,Layla Al-Rashid,Premium,Apparel,1464.0919999999999,2,2024-03-26,Cash,Muwaileh,United Arab Emirates
+LULU-10908,Mariam Khan,Premium,Apparel,1445.3179999999998,4,2024-06-28,Credit Card,Muwaileh,United Arab Emirates
+LULU-10974,Youssef Malik,Premium,Apparel,1407.504,1,2024-07-25,Credit Card,Al Qusais,United Arab Emirates
+LULU-10658,Layla Abbas,Premium,Apparel,1395.94,4,2024-04-07,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10413,Noora Al-Farsi,Premium,Apparel,1377.936,4,2024-06-28,Credit Card,Al Qusais,United Arab Emirates
+LULU-10047,Mustafa Abbas,Premium,Apparel,1341.886,4,2024-12-05,Cash,Muwaileh,United Arab Emirates
+LULU-10598,Abdullah Malik,Loyalty,Apparel,1308.571,4,2024-12-03,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10612,Zainab Al-Rashid,Loyalty,Apparel,1301.025,3,2024-07-26,Cash,Al Qusais,United Arab Emirates
+LULU-10875,Aisha Al-Maktoum,Premium,Apparel,1297.1839999999997,2,2024-02-12,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10265,Ahmed Malik,Loyalty,Apparel,1290.157,4,2024-05-20,Debit Card,Deira,United Arab Emirates
+LULU-10824,Hamad Al-Harbi,Loyalty,Apparel,1232.9569999999999,3,2024-09-08,Credit Card,Jumeirah,United Arab Emirates
+LULU-10016,Aisha Al-Sayed,Loyalty,Apparel,1213.2340000000002,5,2024-07-13,Cash,Jumeirah,United Arab Emirates
+LULU-10440,Mariam Al-Sayed,Loyalty,Apparel,1203.8730000000003,3,2024-09-02,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10662,Zainab Khan,Budget,Apparel,1194.14,4,2024-09-01,Lulu Pay,Deira,United Arab Emirates
+LULU-10925,Mariam Al-Harbi,Budget,Apparel,1191.21,1,2024-02-20,Credit Card,Muwaileh,United Arab Emirates
+LULU-10795,Noora Al-Farsi,Budget,Apparel,1185.06,4,2024-05-22,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10393,Mustafa Al-Rashid,Budget,Apparel,1183.21,1,2024-11-15,Credit Card,Al Barsha,United Arab Emirates
+LULU-10691,Hamad Al-Rashid,Loyalty,Apparel,1179.9810000000002,5,2024-11-27,Credit Card,Jumeirah,United Arab Emirates
+LULU-10879,Ahmed Al-Maktoum,Loyalty,Apparel,1171.6870000000001,5,2024-03-04,Credit Card,Muwaileh,United Arab Emirates
+LULU-10144,Zainab Khan,Budget,Apparel,1160.78,4,2024-05-22,Credit Card,Al Qusais,United Arab Emirates
+LULU-10775,Mohammed Khan,Budget,Apparel,1131.54,3,2024-01-25,Lulu Pay,Deira,United Arab Emirates
+LULU-10570,Youssef Al-Maktoum,Loyalty,Apparel,1119.7450000000001,6,2024-01-04,Lulu Pay,Deira,United Arab Emirates
+LULU-10464,Mariam Ibrahim,Loyalty,Apparel,1115.7520000000002,6,2024-02-20,Credit Card,Al Barsha,United Arab Emirates
+LULU-10916,Mariam Abbas,Standard,Apparel,1107.37,4,2024-11-17,Credit Card,Al Barsha,United Arab Emirates
+LULU-10122,Ahmed Al-Sayed,Loyalty,Apparel,1082.103,3,2024-01-20,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10124,Ahmed Mansoor,Budget,Apparel,1070.6,1,2024-06-06,Cash,Deira,United Arab Emirates
+LULU-10608,Zainab Al-Sayed,Standard,Apparel,1066.67,4,2024-07-03,Cash,Al Qusais,United Arab Emirates
+LULU-10789,Ahmed Malik,Premium,Apparel,1064.896,2,2024-11-21,Cash,Jumeirah,United Arab Emirates
+LULU-10767,Mustafa Ibrahim,Standard,Apparel,1056.07,1,2024-05-26,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10575,Hamad Al-Maktoum,Budget,Apparel,1055.31,3,2024-07-07,Cash,Al Barsha,United Arab Emirates
+LULU-10517,Zainab Al-Farsi,Budget,Apparel,1051.7,3,2024-09-22,Credit Card,Jumeirah,United Arab Emirates
+LULU-10846,Youssef Al-Sayed,Loyalty,Apparel,1039.247,3,2024-06-18,Lulu Pay,Deira,United Arab Emirates
+LULU-10830,Sara Al-Harbi,Loyalty,Apparel,1038.6970000000001,3,2024-04-11,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10307,Layla Abbas,Budget,Apparel,1031.96,4,2024-01-14,Credit Card,Al Qusais,United Arab Emirates
+LULU-10048,Mariam Khan,Premium,Apparel,1004.7379999999998,3,2024-08-20,Credit Card,Al Qusais,United Arab Emirates
+LULU-10560,Youssef Al-Harbi,Budget,Apparel,992.95,2,2024-06-03,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10884,Mohammed Al-Rashid,Premium,Apparel,991.2699999999999,2,2024-01-25,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10423,Abdullah Al-Sayed,Standard,Apparel,978.38,3,2024-03-13,Cash,Muwaileh,United Arab Emirates
+LULU-10882,Khaled Ibrahim,Loyalty,Apparel,965.855,4,2024-06-15,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10424,Sara Mansoor,Loyalty,Apparel,944.7900000000001,3,2024-10-23,Cash,Al Barsha,United Arab Emirates
+LULU-10402,Mustafa Khan,Standard,Apparel,942.35,2,2024-07-26,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10322,Khaled Al-Harbi,Loyalty,Apparel,923.78,6,2024-05-24,Credit Card,Muwaileh,United Arab Emirates
+LULU-10258,Ahmed Ibrahim,Standard,Apparel,910.56,2,2024-07-13,Credit Card,Jumeirah,United Arab Emirates
+LULU-10444,Ahmed Abbas,Loyalty,Apparel,907.4560000000001,3,2024-01-15,Debit Card,Muwaileh,United Arab Emirates
+LULU-10785,Zainab Mansoor,Budget,Apparel,898.3,4,2024-11-18,Cash,Deira,United Arab Emirates
+LULU-10924,Layla Al-Sayed,Loyalty,Apparel,891.187,5,2024-06-26,Cash,Deira,United Arab Emirates
+LULU-10227,Layla Abbas,Budget,Apparel,890.65,4,2024-12-15,Lulu Pay,Deira,United Arab Emirates
+LULU-10807,Sara Khan,Budget,Apparel,889.55,2,2024-08-03,Credit Card,Muwaileh,United Arab Emirates
+LULU-10680,Layla Mansoor,Standard,Apparel,886.83,2,2024-12-11,Debit Card,Jumeirah,United Arab Emirates
+LULU-10486,Reem Malik,Loyalty,Apparel,882.5960000000001,3,2024-05-25,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10285,Fatima Malik,Premium,Apparel,877.9399999999999,4,2024-07-21,Cash,Deira,United Arab Emirates
+LULU-10999,Mariam Al-Sayed,Loyalty,Apparel,870.6170000000001,5,2024-07-21,Debit Card,Muwaileh,United Arab Emirates
+LULU-10081,Zainab Al-Sayed,Loyalty,Apparel,861.212,6,2024-03-06,Debit Card,Jumeirah,United Arab Emirates
+LULU-10462,Hamad Khan,Loyalty,Apparel,836.7700000000001,5,2024-08-19,Cash,Deira,United Arab Emirates
+LULU-10286,Sara Al-Sayed,Standard,Apparel,834.3,3,2024-09-20,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10847,Mohammed Al-Harbi,Premium,Apparel,823.228,3,2024-12-26,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10781,Mariam Al-Rashid,Budget,Apparel,809.99,1,2024-02-01,Debit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10306,Layla Al-Farsi,Budget,Apparel,795.73,2,2024-09-16,Lulu Pay,Deira,United Arab Emirates
+LULU-10211,Hamad Khan,Budget,Apparel,792.87,3,2024-07-11,Lulu Pay,Deira,United Arab Emirates
+LULU-10690,Layla Mansoor,Loyalty,Apparel,789.019,5,2024-11-27,Cash,Al Barsha,United Arab Emirates
+LULU-10967,Mariam Abbas,Standard,Apparel,788.17,1,2024-03-03,Cash,Jumeirah,United Arab Emirates
+LULU-10489,Hamad Malik,Budget,Apparel,781.16,4,2024-08-18,Debit Card,Al Barsha,United Arab Emirates
+LULU-10004,Khaled Mansoor,Premium,Apparel,772.226,4,2024-09-03,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10290,Reem Abbas,Loyalty,Apparel,756.613,3,2024-08-13,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10066,Layla Al-Rashid,Standard,Apparel,752.11,3,2024-05-05,Credit Card,Al Barsha,United Arab Emirates
+LULU-10389,Omar Abbas,Standard,Apparel,737.67,3,2024-04-17,Credit Card,Jumeirah,United Arab Emirates
+LULU-10531,Ahmed Khan,Budget,Apparel,722.86,1,2024-02-02,Cash,Muwaileh,United Arab Emirates
+LULU-10010,Noora Mansoor,Standard,Apparel,719.83,1,2024-01-25,Debit Card,Al Barsha,United Arab Emirates
+LULU-10168,Ahmed Abbas,Budget,Apparel,715.32,2,2024-09-13,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10702,Zainab Ibrahim,Budget,Apparel,699.57,2,2024-11-07,Credit Card,Jumeirah,United Arab Emirates
+LULU-10314,Mohammed Mansoor,Budget,Apparel,693.13,4,2024-04-23,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10906,Abdullah Al-Sayed,Standard,Apparel,689.72,2,2024-02-25,Cash,Al Barsha,United Arab Emirates
+LULU-10242,Youssef Ibrahim,Budget,Apparel,675.47,1,2024-10-08,Cash,Muwaileh,United Arab Emirates
+LULU-10006,Mariam Ibrahim,Loyalty,Apparel,673.376,5,2024-12-08,Credit Card,Muwaileh,United Arab Emirates
+LULU-10555,Noora Khan,Standard,Apparel,668.86,2,2024-01-10,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10880,Aisha Khan,Loyalty,Apparel,664.224,3,2024-04-14,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10966,Sara Al-Maktoum,Budget,Apparel,659.56,1,2024-03-01,Cash,Jumeirah,United Arab Emirates
+LULU-10250,Mustafa Abbas,Standard,Apparel,657.72,3,2024-06-01,Credit Card,Jumeirah,United Arab Emirates
+LULU-10639,Layla Al-Farsi,Loyalty,Apparel,657.173,4,2024-11-17,Credit Card,Al Barsha,United Arab Emirates
+LULU-10809,Aisha Al-Harbi,Budget,Apparel,656.39,3,2024-04-10,Credit Card,Al Qusais,United Arab Emirates
+LULU-10212,Mustafa Abbas,Budget,Apparel,654.95,3,2024-09-28,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10104,Khaled Al-Farsi,Standard,Apparel,647.67,2,2024-03-09,Cash,Deira,United Arab Emirates
+LULU-10989,Sara Khan,Budget,Apparel,639.69,4,2024-02-27,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10686,Aisha Abbas,Loyalty,Apparel,623.48,6,2024-07-25,Debit Card,Muwaileh,United Arab Emirates
+LULU-10738,Mariam Mansoor,Loyalty,Apparel,619.5530000000001,3,2024-02-25,Lulu Pay,Deira,United Arab Emirates
+LULU-10395,Noora Khan,Budget,Apparel,612.46,2,2024-02-13,Credit Card,Al Barsha,United Arab Emirates
+LULU-10377,Ahmed Khan,Loyalty,Apparel,608.333,5,2024-04-18,Credit Card,Deira,United Arab Emirates
+LULU-10501,Khaled Ibrahim,Standard,Apparel,606.12,1,2024-11-26,Debit Card,Deira,United Arab Emirates
+LULU-10627,Reem Al-Rashid,Loyalty,Apparel,602.7890000000001,5,2024-06-10,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10182,Ahmed Al-Maktoum,Loyalty,Apparel,595.4520000000001,6,2024-11-05,Credit Card,Al Qusais,United Arab Emirates
+LULU-10623,Youssef Mansoor,Standard,Apparel,590.14,4,2024-02-03,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10874,Sara Al-Rashid,Budget,Apparel,575.36,1,2024-03-28,Credit Card,Al Qusais,United Arab Emirates
+LULU-10529,Omar Al-Harbi,Budget,Apparel,574.8,3,2024-03-11,Credit Card,Muwaileh,United Arab Emirates
+LULU-10155,Ahmed Al-Farsi,Premium,Apparel,570.668,1,2024-11-08,Cash,Deira,United Arab Emirates
+LULU-10387,Zainab Abbas,Loyalty,Apparel,557.436,4,2024-12-18,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10086,Fatima Mansoor,Budget,Apparel,546.74,1,2024-09-14,Credit Card,Jumeirah,United Arab Emirates
+LULU-10877,Omar Al-Rashid,Premium,Apparel,533.526,1,2024-08-02,Credit Card,Al Barsha,United Arab Emirates
+LULU-10280,Omar Khan,Loyalty,Apparel,518.7270000000001,6,2024-04-28,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10184,Youssef Al-Sayed,Budget,Apparel,515.2,2,2024-08-27,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10671,Noora Al-Sayed,Budget,Apparel,493.29,3,2024-01-17,Cash,Deira,United Arab Emirates
+LULU-10569,Noora Mansoor,Loyalty,Apparel,486.51900000000006,6,2024-11-14,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10580,Sara Al-Harbi,Premium,Apparel,482.3419999999999,2,2024-03-28,Cash,Muwaileh,United Arab Emirates
+LULU-10573,Sara Al-Maktoum,Loyalty,Apparel,481.052,4,2024-07-17,Cash,Al Qusais,United Arab Emirates
+LULU-10496,Mohammed Abbas,Loyalty,Apparel,453.20000000000005,4,2024-04-01,Credit Card,Al Barsha,United Arab Emirates
+LULU-10298,Mustafa Al-Maktoum,Loyalty,Apparel,443.00300000000004,3,2024-12-19,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10418,Reem Al-Maktoum,Loyalty,Apparel,436.029,3,2024-08-15,Cash,Deira,United Arab Emirates
+LULU-10455,Fatima Al-Sayed,Loyalty,Apparel,429.12100000000004,5,2024-05-24,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10456,Ahmed Al-Maktoum,Budget,Apparel,416.51,3,2024-09-03,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10484,Khaled Ibrahim,Budget,Apparel,412.99,4,2024-07-03,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10022,Khaled Ibrahim,Standard,Apparel,409.22,3,2024-02-03,Credit Card,Al Barsha,United Arab Emirates
+LULU-10191,Hamad Al-Maktoum,Loyalty,Apparel,372.31700000000006,3,2024-06-04,Credit Card,Deira,United Arab Emirates
+LULU-10206,Fatima Mansoor,Premium,Apparel,364.252,1,2024-12-25,Cash,Muwaileh,United Arab Emirates
+LULU-10054,Mustafa Al-Harbi,Standard,Apparel,334.1,4,2024-10-26,Cash,Deira,United Arab Emirates
+LULU-10559,Sara Al-Sayed,Budget,Apparel,328.21,4,2024-02-16,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10936,Ahmed Al-Farsi,Loyalty,Apparel,324.08200000000005,5,2024-09-02,Credit Card,Al Barsha,United Arab Emirates
+LULU-10600,Hamad Al-Maktoum,Standard,Apparel,323.13,3,2024-08-12,Credit Card,Muwaileh,United Arab Emirates
+LULU-10426,Aisha Al-Farsi,Loyalty,Apparel,314.688,6,2024-09-09,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10969,Fatima Al-Farsi,Budget,Apparel,289.09,2,2024-04-28,Lulu Pay,Deira,United Arab Emirates
+LULU-10150,Omar Al-Harbi,Standard,Apparel,288.89,1,2024-02-23,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10437,Hamad Mansoor,Budget,Apparel,276.22,2,2024-07-21,Credit Card,Al Qusais,United Arab Emirates
+LULU-10072,Layla Al-Farsi,Loyalty,Apparel,261.44800000000004,3,2024-12-22,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10291,Abdullah Mansoor,Budget,Apparel,260.64,1,2024-05-20,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10260,Fatima Khan,Loyalty,Apparel,243.08900000000003,3,2024-12-27,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10915,Mohammed Al-Farsi,Loyalty,Apparel,220.52800000000002,3,2024-01-24,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10913,Khaled Al-Rashid,Budget,Apparel,209.02,1,2024-04-07,Debit Card,Deira,United Arab Emirates
+LULU-10432,Fatima Al-Sayed,Standard,Apparel,195.16,1,2024-09-17,Credit Card,Al Qusais,United Arab Emirates
+LULU-10636,Zainab Al-Sayed,Standard,Apparel,187.73,2,2024-06-27,Credit Card,Al Barsha,United Arab Emirates
+LULU-10181,Hamad Ibrahim,Standard,Apparel,187.19,3,2024-08-25,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10988,Sara Malik,Loyalty,Apparel,185.82300000000004,5,2024-04-04,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10197,Reem Mansoor,Standard,Apparel,182.87,1,2024-05-15,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10701,Noora Al-Sayed,Loyalty,Apparel,181.55500000000004,3,2024-09-26,Credit Card,Jumeirah,United Arab Emirates
+LULU-10694,Fatima Al-Farsi,Premium,Beauty & Personal Care,1637.2859999999998,1,2024-06-06,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10860,Mohammed Al-Sayed,Premium,Beauty & Personal Care,1604.1059999999998,3,2024-06-10,Debit Card,Deira,United Arab Emirates
+LULU-10661,Noora Khan,Premium,Beauty & Personal Care,1478.624,2,2024-08-06,Lulu Pay,Deira,United Arab Emirates
+LULU-10085,Hamad Ibrahim,Premium,Beauty & Personal Care,1404.9699999999998,3,2024-05-06,Debit Card,Jumeirah,United Arab Emirates
+LULU-10711,Youssef Ibrahim,Loyalty,Beauty & Personal Care,1306.767,6,2024-03-26,Cash,Muwaileh,United Arab Emirates
+LULU-10301,Fatima Malik,Loyalty,Beauty & Personal Care,1302.2900000000002,4,2024-12-13,Credit Card,Jumeirah,United Arab Emirates
+LULU-10637,Sara Al-Rashid,Premium,Beauty & Personal Care,1284.808,4,2024-06-25,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10522,Aisha Ibrahim,Loyalty,Beauty & Personal Care,1273.646,6,2024-11-09,Cash,Muwaileh,United Arab Emirates
+LULU-10408,Youssef Al-Farsi,Loyalty,Beauty & Personal Care,1270.852,5,2024-03-19,Credit Card,Al Qusais,United Arab Emirates
+LULU-10399,Khaled Mansoor,Premium,Beauty & Personal Care,1255.002,2,2024-03-27,Debit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10855,Hamad Al-Sayed,Loyalty,Beauty & Personal Care,1214.741,5,2024-10-27,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10064,Ahmed Al-Harbi,Loyalty,Beauty & Personal Care,1207.448,4,2024-04-16,Credit Card,Jumeirah,United Arab Emirates
+LULU-10571,Youssef Al-Rashid,Loyalty,Beauty & Personal Care,1202.4650000000001,4,2024-06-24,Credit Card,Muwaileh,United Arab Emirates
+LULU-10421,Reem Ibrahim,Loyalty,Beauty & Personal Care,1199.5610000000001,6,2024-02-08,Credit Card,Jumeirah,United Arab Emirates
+LULU-10175,Ahmed Khan,Budget,Beauty & Personal Care,1188.64,3,2024-04-04,Credit Card,Deira,United Arab Emirates
+LULU-10540,Zainab Mansoor,Loyalty,Beauty & Personal Care,1168.277,4,2024-12-11,Credit Card,Al Barsha,United Arab Emirates
+LULU-10299,Sara Mansoor,Loyalty,Beauty & Personal Care,1159.8840000000002,3,2024-12-09,Cash,Jumeirah,United Arab Emirates
+LULU-10057,Aisha Abbas,Budget,Beauty & Personal Care,1141.46,4,2024-11-20,Cash,Al Qusais,United Arab Emirates
+LULU-10108,Mustafa Mansoor,Loyalty,Beauty & Personal Care,1095.776,6,2024-07-09,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10962,Mohammed Khan,Loyalty,Beauty & Personal Care,1094.9180000000001,4,2024-05-09,Debit Card,Jumeirah,United Arab Emirates
+LULU-10578,Hamad Al-Maktoum,Budget,Beauty & Personal Care,1084.38,1,2024-05-06,Cash,Al Barsha,United Arab Emirates
+LULU-10210,Mohammed Khan,Premium,Beauty & Personal Care,1084.328,1,2024-07-09,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10842,Ahmed Malik,Standard,Beauty & Personal Care,1078.56,3,2024-10-17,Credit Card,Muwaileh,United Arab Emirates
+LULU-10353,Noora Abbas,Budget,Beauty & Personal Care,1064.76,3,2024-09-03,Credit Card,Al Qusais,United Arab Emirates
+LULU-10218,Omar Ibrahim,Premium,Beauty & Personal Care,1060.654,4,2024-10-21,Credit Card,Deira,United Arab Emirates
+LULU-10873,Mohammed Malik,Loyalty,Beauty & Personal Care,1047.255,5,2024-02-02,Cash,Muwaileh,United Arab Emirates
+LULU-10383,Youssef Mansoor,Standard,Beauty & Personal Care,1044.43,4,2024-03-13,Credit Card,Jumeirah,United Arab Emirates
+LULU-10334,Aisha Abbas,Loyalty,Beauty & Personal Care,1035.991,5,2024-08-08,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10556,Ahmed Abbas,Budget,Beauty & Personal Care,1024.47,3,2024-07-22,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10615,Fatima Al-Rashid,Standard,Beauty & Personal Care,996.0,1,2024-06-26,Credit Card,Muwaileh,United Arab Emirates
+LULU-10148,Youssef Al-Rashid,Standard,Beauty & Personal Care,968.75,1,2024-10-24,Debit Card,Al Barsha,United Arab Emirates
+LULU-10365,Zainab Al-Farsi,Standard,Beauty & Personal Care,962.57,1,2024-03-26,Credit Card,Muwaileh,United Arab Emirates
+LULU-10055,Zainab Al-Harbi,Loyalty,Beauty & Personal Care,915.4860000000001,4,2024-10-22,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10453,Mustafa Malik,Standard,Beauty & Personal Care,904.25,3,2024-01-11,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10316,Reem Al-Maktoum,Loyalty,Beauty & Personal Care,899.7890000000001,6,2024-11-15,Cash,Muwaileh,United Arab Emirates
+LULU-10346,Abdullah Al-Maktoum,Standard,Beauty & Personal Care,895.75,4,2024-09-11,Debit Card,Deira,United Arab Emirates
+LULU-10480,Mohammed Al-Sayed,Standard,Beauty & Personal Care,888.88,2,2024-02-23,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10029,Ahmed Al-Farsi,Standard,Beauty & Personal Care,880.57,3,2024-12-16,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10281,Layla Al-Maktoum,Premium,Beauty & Personal Care,871.1779999999999,1,2024-03-07,Cash,Muwaileh,United Arab Emirates
+LULU-10008,Ahmed Al-Rashid,Premium,Beauty & Personal Care,871.136,2,2024-04-14,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10682,Fatima Malik,Budget,Beauty & Personal Care,859.91,2,2024-11-28,Debit Card,Jumeirah,United Arab Emirates
+LULU-10524,Fatima Malik,Loyalty,Beauty & Personal Care,829.598,3,2024-01-21,Credit Card,Jumeirah,United Arab Emirates
+LULU-10448,Aisha Ibrahim,Loyalty,Beauty & Personal Care,812.812,4,2024-08-12,Lulu Pay,Deira,United Arab Emirates
+LULU-10121,Fatima Malik,Budget,Beauty & Personal Care,805.45,3,2024-06-06,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10834,Noora Ibrahim,Standard,Beauty & Personal Care,802.25,3,2024-05-02,Debit Card,Jumeirah,United Arab Emirates
+LULU-10394,Fatima Abbas,Loyalty,Beauty & Personal Care,790.3280000000001,3,2024-09-17,Cash,Jumeirah,United Arab Emirates
+LULU-10176,Mohammed Al-Harbi,Standard,Beauty & Personal Care,788.12,1,2024-10-11,Credit Card,Al Qusais,United Arab Emirates
+LULU-10581,Mustafa Al-Rashid,Standard,Beauty & Personal Care,784.04,2,2024-08-23,Cash,Al Barsha,United Arab Emirates
+LULU-10647,Fatima Abbas,Loyalty,Beauty & Personal Care,783.101,4,2024-10-04,Credit Card,Al Qusais,United Arab Emirates
+LULU-10266,Zainab Abbas,Loyalty,Beauty & Personal Care,766.711,4,2024-06-18,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10134,Khaled Al-Harbi,Budget,Beauty & Personal Care,766.42,3,2024-12-27,Credit Card,Al Barsha,United Arab Emirates
+LULU-10154,Hamad Al-Sayed,Loyalty,Beauty & Personal Care,764.3460000000001,6,2024-02-28,Debit Card,Al Barsha,United Arab Emirates
+LULU-10020,Omar Al-Sayed,Loyalty,Beauty & Personal Care,754.908,3,2024-05-01,Credit Card,Deira,United Arab Emirates
+LULU-10550,Mustafa Malik,Standard,Beauty & Personal Care,744.49,3,2024-12-16,Credit Card,Muwaileh,United Arab Emirates
+LULU-10234,Aisha Ibrahim,Loyalty,Beauty & Personal Care,739.2330000000001,3,2024-10-08,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10516,Mariam Abbas,Standard,Beauty & Personal Care,731.04,3,2024-07-22,Cash,Jumeirah,United Arab Emirates
+LULU-10068,Youssef Ibrahim,Standard,Beauty & Personal Care,727.01,1,2024-03-23,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10980,Layla Al-Maktoum,Loyalty,Beauty & Personal Care,693.715,6,2024-09-02,Credit Card,Jumeirah,United Arab Emirates
+LULU-10848,Khaled Abbas,Premium,Beauty & Personal Care,667.7299999999999,1,2024-01-18,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10950,Abdullah Al-Sayed,Standard,Beauty & Personal Care,636.36,2,2024-07-12,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10372,Khaled Al-Harbi,Loyalty,Beauty & Personal Care,623.3040000000001,4,2024-09-09,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10384,Mariam Khan,Standard,Beauty & Personal Care,618.74,2,2024-03-03,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10670,Zainab Mansoor,Standard,Beauty & Personal Care,616.31,1,2024-06-26,Credit Card,Deira,United Arab Emirates
+LULU-10567,Layla Al-Rashid,Loyalty,Beauty & Personal Care,610.368,4,2024-07-12,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10518,Mustafa Al-Harbi,Loyalty,Beauty & Personal Care,609.444,6,2024-07-13,Credit Card,Jumeirah,United Arab Emirates
+LULU-10362,Noora Abbas,Standard,Beauty & Personal Care,600.64,3,2024-02-21,Cash,Jumeirah,United Arab Emirates
+LULU-10739,Ahmed Al-Harbi,Loyalty,Beauty & Personal Care,588.841,5,2024-02-11,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10378,Fatima Mansoor,Budget,Beauty & Personal Care,574.45,3,2024-09-07,Cash,Jumeirah,United Arab Emirates
+LULU-10927,Mustafa Mansoor,Budget,Beauty & Personal Care,551.98,4,2024-07-14,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10752,Mohammed Malik,Loyalty,Beauty & Personal Care,541.6510000000001,5,2024-06-27,Lulu Pay,Deira,United Arab Emirates
+LULU-10804,Layla Khan,Standard,Beauty & Personal Care,492.12,4,2024-07-16,Cash,Deira,United Arab Emirates
+LULU-10748,Khaled Al-Harbi,Standard,Beauty & Personal Care,472.5,3,2024-11-01,Cash,Muwaileh,United Arab Emirates
+LULU-10896,Khaled Al-Harbi,Loyalty,Beauty & Personal Care,469.4030000000001,6,2024-04-11,Credit Card,Al Qusais,United Arab Emirates
+LULU-10997,Noora Malik,Loyalty,Beauty & Personal Care,461.63700000000006,6,2024-05-24,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10825,Mohammed Malik,Loyalty,Beauty & Personal Care,453.45300000000003,3,2024-03-26,Cash,Al Qusais,United Arab Emirates
+LULU-10335,Ahmed Ibrahim,Loyalty,Beauty & Personal Care,440.814,3,2024-08-26,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10203,Abdullah Al-Maktoum,Loyalty,Beauty & Personal Care,425.502,6,2024-06-22,Credit Card,Al Qusais,United Arab Emirates
+LULU-10872,Abdullah Al-Farsi,Premium,Beauty & Personal Care,414.288,3,2024-09-12,Debit Card,Deira,United Arab Emirates
+LULU-10769,Mustafa Al-Sayed,Standard,Beauty & Personal Care,403.22,4,2024-07-19,Cash,Al Barsha,United Arab Emirates
+LULU-10763,Layla Mansoor,Standard,Beauty & Personal Care,394.36,3,2024-02-10,Credit Card,Al Barsha,United Arab Emirates
+LULU-10138,Noora Al-Maktoum,Loyalty,Beauty & Personal Care,385.2420000000001,3,2024-08-19,Credit Card,Muwaileh,United Arab Emirates
+LULU-10221,Mariam Al-Rashid,Budget,Beauty & Personal Care,338.67,4,2024-02-23,Cash,Muwaileh,United Arab Emirates
+LULU-10128,Reem Al-Rashid,Budget,Beauty & Personal Care,296.07,2,2024-09-01,Credit Card,Deira,United Arab Emirates
+LULU-10019,Abdullah Abbas,Loyalty,Beauty & Personal Care,292.105,3,2024-11-25,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10921,Mustafa Abbas,Loyalty,Beauty & Personal Care,272.437,3,2024-07-25,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10935,Reem Al-Maktoum,Loyalty,Beauty & Personal Care,271.865,4,2024-03-14,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10447,Hamad Mansoor,Standard,Beauty & Personal Care,230.05,2,2024-06-18,Cash,Muwaileh,United Arab Emirates
+LULU-10713,Mohammed Ibrahim,Budget,Beauty & Personal Care,226.37,2,2024-09-23,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10803,Khaled Khan,Standard,Beauty & Personal Care,221.86,4,2024-04-22,Credit Card,Deira,United Arab Emirates
+LULU-10509,Abdullah Mansoor,Budget,Beauty & Personal Care,217.21,2,2024-06-11,Cash,Jumeirah,United Arab Emirates
+LULU-10216,Reem Malik,Loyalty,Beauty & Personal Care,200.40900000000002,3,2024-07-12,Credit Card,Jumeirah,United Arab Emirates
+LULU-10434,Aisha Al-Sayed,Budget,Beauty & Personal Care,182.99,3,2024-06-17,Debit Card,Deira,United Arab Emirates
+LULU-10653,Youssef Ibrahim,Premium,Groceries,618.324,6,2024-11-13,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10275,Mohammed Malik,Premium,Groceries,609.3499999999999,7,2024-12-28,Credit Card,Muwaileh,United Arab Emirates
+LULU-10749,Hamad Al-Farsi,Premium,Groceries,529.508,5,2024-05-01,Credit Card,Deira,United Arab Emirates
+LULU-10468,Noora Al-Sayed,Premium,Groceries,498.708,4,2024-09-28,Cash,Jumeirah,United Arab Emirates
+LULU-10069,Ahmed Al-Rashid,Premium,Groceries,496.44,7,2024-01-06,Credit Card,Jumeirah,United Arab Emirates
+LULU-10195,Youssef Malik,Loyalty,Groceries,493.73500000000007,6,2024-03-13,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10864,Layla Malik,Loyalty,Groceries,490.72100000000006,9,2024-02-17,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10953,Zainab Al-Farsi,Loyalty,Groceries,488.213,11,2024-07-16,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10883,Mohammed Al-Harbi,Loyalty,Groceries,487.91600000000005,10,2024-04-07,Debit Card,Al Barsha,United Arab Emirates
+LULU-10703,Abdullah Abbas,Premium,Groceries,485.688,8,2024-03-06,Credit Card,Muwaileh,United Arab Emirates
+LULU-10773,Omar Malik,Loyalty,Groceries,455.147,10,2024-01-20,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10894,Reem Al-Rashid,Loyalty,Groceries,450.747,8,2024-06-05,Debit Card,Al Qusais,United Arab Emirates
+LULU-10471,Youssef Abbas,Loyalty,Groceries,449.26200000000006,10,2024-09-16,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10695,Sara Malik,Budget,Groceries,448.26,9,2024-09-10,Cash,Jumeirah,United Arab Emirates
+LULU-10538,Ahmed Mansoor,Loyalty,Groceries,446.21500000000003,10,2024-05-22,Lulu Pay,Deira,United Arab Emirates
+LULU-10766,Mustafa Ibrahim,Standard,Groceries,444.76,11,2024-06-22,Lulu Pay,Deira,United Arab Emirates
+LULU-10083,Youssef Al-Harbi,Budget,Groceries,444.11,6,2024-05-26,Credit Card,Muwaileh,United Arab Emirates
+LULU-10918,Khaled Mansoor,Standard,Groceries,443.57,4,2024-10-18,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10520,Fatima Al-Maktoum,Loyalty,Groceries,442.92600000000004,7,2024-10-15,Credit Card,Deira,United Arab Emirates
+LULU-10512,Reem Al-Farsi,Premium,Groceries,441.96599999999995,10,2024-03-13,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10333,Zainab Malik,Standard,Groceries,441.22,6,2024-01-07,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10714,Layla Al-Rashid,Loyalty,Groceries,439.69200000000006,11,2024-12-24,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10638,Fatima Abbas,Budget,Groceries,439.52,5,2024-10-27,Cash,Muwaileh,United Arab Emirates
+LULU-10822,Youssef Abbas,Standard,Groceries,438.03,7,2024-01-15,Credit Card,Al Barsha,United Arab Emirates
+LULU-10092,Aisha Mansoor,Loyalty,Groceries,434.44500000000005,10,2024-04-10,Debit Card,Al Qusais,United Arab Emirates
+LULU-10074,Aisha Al-Maktoum,Premium,Groceries,433.55199999999996,4,2024-03-13,Credit Card,Al Barsha,United Arab Emirates
+LULU-10914,Mariam Ibrahim,Budget,Groceries,433.19,7,2024-09-15,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10474,Fatima Al-Sayed,Budget,Groceries,430.89,5,2024-06-25,Credit Card,Deira,United Arab Emirates
+LULU-10720,Mustafa Ibrahim,Budget,Groceries,425.47,5,2024-07-15,Credit Card,Al Barsha,United Arab Emirates
+LULU-10320,Khaled Khan,Budget,Groceries,424.94,7,2024-06-26,Credit Card,Al Qusais,United Arab Emirates
+LULU-10061,Fatima Al-Maktoum,Budget,Groceries,424.66,11,2024-04-25,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10082,Youssef Khan,Budget,Groceries,423.09,5,2024-11-13,Credit Card,Al Barsha,United Arab Emirates
+LULU-10626,Mohammed Al-Farsi,Loyalty,Groceries,417.76900000000006,10,2024-07-05,Credit Card,Al Qusais,United Arab Emirates
+LULU-10135,Layla Al-Sayed,Budget,Groceries,415.94,4,2024-11-22,Credit Card,Al Qusais,United Arab Emirates
+LULU-10589,Abdullah Al-Rashid,Budget,Groceries,414.24,5,2024-12-21,Credit Card,Deira,United Arab Emirates
+LULU-10043,Reem Al-Rashid,Loyalty,Groceries,411.45500000000004,6,2024-08-13,Credit Card,Al Barsha,United Arab Emirates
+LULU-10078,Layla Al-Maktoum,Budget,Groceries,410.46,4,2024-11-12,Debit Card,Muwaileh,United Arab Emirates
+LULU-10289,Ahmed Al-Maktoum,Budget,Groceries,408.05,11,2024-01-15,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10098,Layla Al-Maktoum,Loyalty,Groceries,406.73600000000005,6,2024-06-15,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10174,Omar Al-Maktoum,Loyalty,Groceries,406.12,10,2024-11-28,Cash,Muwaileh,United Arab Emirates
+LULU-10167,Sara Al-Sayed,Budget,Groceries,404.0,6,2024-08-26,Lulu Pay,Deira,United Arab Emirates
+LULU-10828,Layla Al-Maktoum,Budget,Groceries,401.94,8,2024-11-10,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10364,Abdullah Al-Harbi,Standard,Groceries,401.59,4,2024-08-13,Lulu Pay,Deira,United Arab Emirates
+LULU-10776,Mustafa Al-Farsi,Budget,Groceries,401.37,8,2024-04-14,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10467,Mustafa Al-Sayed,Standard,Groceries,400.35,10,2024-05-24,Credit Card,Jumeirah,United Arab Emirates
+LULU-10929,Layla Mansoor,Budget,Groceries,400.27,9,2024-09-18,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10765,Aisha Khan,Standard,Groceries,396.41,6,2024-10-02,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10507,Zainab Malik,Budget,Groceries,396.08,4,2024-06-05,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10037,Aisha Al-Maktoum,Budget,Groceries,395.67,7,2024-03-04,Credit Card,Al Barsha,United Arab Emirates
+LULU-10975,Mustafa Al-Sayed,Budget,Groceries,389.28,10,2024-08-13,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10300,Layla Abbas,Budget,Groceries,386.8,11,2024-07-23,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10117,Mohammed Al-Sayed,Budget,Groceries,386.73,11,2024-11-09,Lulu Pay,Deira,United Arab Emirates
+LULU-10616,Omar Al-Maktoum,Budget,Groceries,386.36,9,2024-08-15,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10771,Reem Al-Farsi,Budget,Groceries,386.0,9,2024-02-23,Debit Card,Muwaileh,United Arab Emirates
+LULU-10088,Layla Al-Rashid,Budget,Groceries,382.55,5,2024-12-01,Cash,Jumeirah,United Arab Emirates
+LULU-10693,Youssef Al-Rashid,Budget,Groceries,381.46,5,2024-10-21,Credit Card,Jumeirah,United Arab Emirates
+LULU-10588,Abdullah Mansoor,Budget,Groceries,381.02,8,2024-11-21,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10042,Mohammed Khan,Loyalty,Groceries,380.94100000000003,6,2024-09-11,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10466,Reem Abbas,Budget,Groceries,374.35,11,2024-04-02,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10634,Mariam Malik,Budget,Groceries,371.99,4,2024-03-20,Credit Card,Al Qusais,United Arab Emirates
+LULU-10963,Aisha Al-Farsi,Premium,Groceries,371.0419999999999,4,2024-07-14,Credit Card,Deira,United Arab Emirates
+LULU-10209,Fatima Al-Maktoum,Budget,Groceries,370.23,5,2024-10-23,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10732,Hamad Mansoor,Budget,Groceries,369.46,7,2024-01-16,Credit Card,Al Barsha,United Arab Emirates
+LULU-10845,Layla Al-Sayed,Budget,Groceries,369.12,10,2024-11-04,Debit Card,Muwaileh,United Arab Emirates
+LULU-10049,Mariam Al-Harbi,Budget,Groceries,368.07,10,2024-03-28,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10219,Ahmed Al-Maktoum,Standard,Groceries,367.18,10,2024-10-19,Cash,Muwaileh,United Arab Emirates
+LULU-10700,Reem Malik,Standard,Groceries,363.76,4,2024-05-23,Credit Card,Muwaileh,United Arab Emirates
+LULU-10190,Mohammed Al-Farsi,Budget,Groceries,361.94,9,2024-03-07,Cash,Al Qusais,United Arab Emirates
+LULU-10454,Mohammed Al-Harbi,Standard,Groceries,358.65,9,2024-12-09,Lulu Pay,Deira,United Arab Emirates
+LULU-10593,Ahmed Abbas,Loyalty,Groceries,353.056,10,2024-08-23,Debit Card,Muwaileh,United Arab Emirates
+LULU-10308,Reem Abbas,Budget,Groceries,352.51,10,2024-07-06,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10542,Noora Al-Rashid,Budget,Groceries,349.29,8,2024-01-13,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10105,Fatima Ibrahim,Budget,Groceries,348.18,4,2024-12-19,Credit Card,Jumeirah,United Arab Emirates
+LULU-10149,Hamad Al-Maktoum,Budget,Groceries,346.67,5,2024-09-07,Credit Card,Muwaileh,United Arab Emirates
+LULU-10007,Layla Al-Maktoum,Loyalty,Groceries,346.511,7,2024-06-22,Cash,Muwaileh,United Arab Emirates
+LULU-10326,Hamad Al-Rashid,Standard,Groceries,342.98,6,2024-04-24,Cash,Jumeirah,United Arab Emirates
+LULU-10262,Sara Ibrahim,Budget,Groceries,342.26,9,2024-04-08,Cash,Al Qusais,United Arab Emirates
+LULU-10271,Khaled Al-Maktoum,Budget,Groceries,338.57,6,2024-07-20,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10902,Noora Mansoor,Budget,Groceries,336.13,7,2024-10-08,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10056,Aisha Al-Rashid,Loyalty,Groceries,330.374,7,2024-01-24,Lulu Pay,Deira,United Arab Emirates
+LULU-10357,Youssef Abbas,Standard,Groceries,329.73,7,2024-04-13,Debit Card,Al Barsha,United Arab Emirates
+LULU-10452,Reem Mansoor,Standard,Groceries,329.32,6,2024-05-16,Debit Card,Jumeirah,United Arab Emirates
+LULU-10412,Aisha Al-Harbi,Budget,Groceries,329.1,8,2024-03-27,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10476,Layla Al-Harbi,Standard,Groceries,328.88,11,2024-07-27,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10126,Fatima Al-Harbi,Budget,Groceries,327.58,7,2024-10-11,Cash,Deira,United Arab Emirates
+LULU-10527,Mohammed Abbas,Budget,Groceries,325.45,7,2024-09-22,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10060,Mohammed Abbas,Budget,Groceries,322.65,9,2024-02-19,Credit Card,Deira,United Arab Emirates
+LULU-10106,Khaled Khan,Loyalty,Groceries,322.322,8,2024-08-27,Debit Card,Jumeirah,United Arab Emirates
+LULU-10536,Sara Al-Maktoum,Budget,Groceries,320.99,7,2024-01-03,Lulu Pay,Deira,United Arab Emirates
+LULU-10717,Reem Ibrahim,Budget,Groceries,320.3,9,2024-07-28,Debit Card,Deira,United Arab Emirates
+LULU-10296,Khaled Malik,Loyalty,Groceries,319.82500000000005,10,2024-12-02,Credit Card,Al Barsha,United Arab Emirates
+LULU-10269,Abdullah Ibrahim,Loyalty,Groceries,319.264,12,2024-06-03,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10045,Hamad Abbas,Budget,Groceries,318.81,6,2024-09-26,Cash,Jumeirah,United Arab Emirates
+LULU-10247,Khaled Khan,Budget,Groceries,318.04,8,2024-12-03,Cash,Al Qusais,United Arab Emirates
+LULU-10511,Zainab Al-Farsi,Budget,Groceries,312.07,4,2024-06-06,Credit Card,Jumeirah,United Arab Emirates
+LULU-10213,Reem Al-Maktoum,Budget,Groceries,310.12,4,2024-03-26,Credit Card,Muwaileh,United Arab Emirates
+LULU-10431,Abdullah Al-Maktoum,Budget,Groceries,307.93,8,2024-12-08,Cash,Al Barsha,United Arab Emirates
+LULU-10368,Noora Al-Rashid,Budget,Groceries,303.64,9,2024-06-25,Credit Card,Jumeirah,United Arab Emirates
+LULU-10728,Aisha Al-Sayed,Standard,Groceries,300.79,10,2024-03-25,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10349,Zainab Abbas,Budget,Groceries,298.37,9,2024-01-05,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10797,Ahmed Al-Rashid,Budget,Groceries,297.68,7,2024-07-09,Credit Card,Al Qusais,United Arab Emirates
+LULU-10955,Mohammed Al-Harbi,Budget,Groceries,295.8,5,2024-12-13,Cash,Jumeirah,United Arab Emirates
+LULU-10697,Abdullah Abbas,Budget,Groceries,294.15,10,2024-05-12,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10622,Mustafa Al-Harbi,Loyalty,Groceries,291.62100000000004,10,2024-04-08,Credit Card,Deira,United Arab Emirates
+LULU-10312,Abdullah Mansoor,Budget,Groceries,291.4,5,2024-02-19,Credit Card,Deira,United Arab Emirates
+LULU-10654,Abdullah Al-Rashid,Budget,Groceries,291.26,11,2024-02-28,Credit Card,Deira,United Arab Emirates
+LULU-10584,Youssef Al-Rashid,Budget,Groceries,290.11,4,2024-04-20,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10931,Zainab Ibrahim,Budget,Groceries,288.42,11,2024-06-13,Cash,Al Qusais,United Arab Emirates
+LULU-10379,Abdullah Al-Harbi,Budget,Groceries,287.46,5,2024-02-19,Debit Card,Al Barsha,United Arab Emirates
+LULU-10366,Sara Al-Harbi,Budget,Groceries,286.68,8,2024-03-04,Lulu Pay,Deira,United Arab Emirates
+LULU-10910,Mohammed Khan,Budget,Groceries,282.3,10,2024-05-10,Credit Card,Deira,United Arab Emirates
+LULU-10525,Mohammed Malik,Loyalty,Groceries,280.401,10,2024-05-26,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10628,Mariam Al-Sayed,Budget,Groceries,279.22,11,2024-08-27,Cash,Al Qusais,United Arab Emirates
+LULU-10062,Aisha Mansoor,Budget,Groceries,277.41,6,2024-01-03,Cash,Al Qusais,United Arab Emirates
+LULU-10948,Mariam Al-Sayed,Budget,Groceries,276.34,4,2024-06-14,Debit Card,Al Qusais,United Arab Emirates
+LULU-10572,Ahmed Abbas,Budget,Groceries,275.36,11,2024-05-06,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10244,Noora Al-Rashid,Budget,Groceries,269.77,9,2024-02-12,Debit Card,Jumeirah,United Arab Emirates
+LULU-10743,Mustafa Malik,Budget,Groceries,268.37,8,2024-07-27,Lulu Pay,Deira,United Arab Emirates
+LULU-10215,Youssef Malik,Budget,Groceries,266.99,6,2024-03-28,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10094,Hamad Al-Maktoum,Budget,Groceries,264.91,10,2024-07-16,Credit Card,Muwaileh,United Arab Emirates
+LULU-10139,Youssef Abbas,Budget,Groceries,263.78,4,2024-02-06,Lulu Pay,Deira,United Arab Emirates
+LULU-10024,Mohammed Malik,Budget,Groceries,262.37,5,2024-06-23,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10871,Fatima Al-Maktoum,Standard,Groceries,260.44,9,2024-07-16,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10178,Abdullah Malik,Budget,Groceries,260.01,6,2024-10-03,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10892,Hamad Ibrahim,Budget,Groceries,259.68,8,2024-09-16,Credit Card,Deira,United Arab Emirates
+LULU-10716,Layla Al-Harbi,Budget,Groceries,258.75,7,2024-01-05,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10764,Mariam Al-Harbi,Loyalty,Groceries,253.96800000000002,6,2024-05-11,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10895,Omar Al-Farsi,Standard,Groceries,252.8,6,2024-09-22,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10942,Fatima Al-Sayed,Budget,Groceries,252.42,4,2024-09-19,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10125,Reem Al-Farsi,Budget,Groceries,250.92,11,2024-05-15,Cash,Jumeirah,United Arab Emirates
+LULU-10270,Hamad Malik,Budget,Groceries,250.46,4,2024-10-06,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10650,Abdullah Al-Maktoum,Budget,Groceries,250.28,11,2024-07-21,Cash,Al Barsha,United Arab Emirates
+LULU-10755,Mohammed Al-Harbi,Loyalty,Groceries,248.89700000000002,10,2024-07-25,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10347,Abdullah Malik,Budget,Groceries,247.68,6,2024-12-28,Cash,Jumeirah,United Arab Emirates
+LULU-10949,Hamad Al-Harbi,Budget,Groceries,246.95,5,2024-01-23,Credit Card,Al Qusais,United Arab Emirates
+LULU-10163,Omar Al-Rashid,Standard,Groceries,245.77,10,2024-11-26,Credit Card,Al Qusais,United Arab Emirates
+LULU-10947,Fatima Al-Maktoum,Budget,Groceries,245.16,5,2024-05-26,Credit Card,Al Barsha,United Arab Emirates
+LULU-10799,Zainab Al-Maktoum,Loyalty,Groceries,242.92400000000004,11,2024-01-12,Debit Card,Al Barsha,United Arab Emirates
+LULU-10750,Ahmed Al-Maktoum,Budget,Groceries,240.88,11,2024-05-16,Lulu Pay,Deira,United Arab Emirates
+LULU-10187,Mustafa Al-Sayed,Standard,Groceries,236.19,10,2024-07-10,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10994,Zainab Al-Maktoum,Budget,Groceries,233.99,4,2024-01-11,Credit Card,Muwaileh,United Arab Emirates
+LULU-10204,Ahmed Mansoor,Budget,Groceries,232.09,11,2024-05-18,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10490,Zainab Al-Farsi,Standard,Groceries,230.05,5,2024-01-02,Debit Card,Jumeirah,United Arab Emirates
+LULU-10241,Khaled Al-Rashid,Budget,Groceries,227.77,9,2024-10-11,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10119,Ahmed Mansoor,Loyalty,Groceries,227.678,13,2024-08-07,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10257,Layla Al-Rashid,Budget,Groceries,227.09,8,2024-07-09,Lulu Pay,Deira,United Arab Emirates
+LULU-10120,Reem Mansoor,Budget,Groceries,225.5,4,2024-09-17,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10698,Layla Malik,Loyalty,Groceries,223.619,10,2024-10-01,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10015,Layla Khan,Budget,Groceries,221.02,5,2024-12-13,Credit Card,Al Barsha,United Arab Emirates
+LULU-10515,Youssef Khan,Loyalty,Groceries,219.35100000000003,7,2024-07-16,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10841,Youssef Al-Farsi,Loyalty,Groceries,217.51400000000004,13,2024-10-17,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10115,Khaled Al-Maktoum,Budget,Groceries,214.74,9,2024-01-05,Lulu Pay,Deira,United Arab Emirates
+LULU-10498,Fatima Khan,Budget,Groceries,213.26,4,2024-04-07,Credit Card,Deira,United Arab Emirates
+LULU-10499,Mustafa Al-Sayed,Standard,Groceries,209.61,8,2024-10-06,Debit Card,Al Barsha,United Arab Emirates
+LULU-10132,Omar Al-Farsi,Budget,Groceries,209.6,4,2024-05-09,Credit Card,Al Barsha,United Arab Emirates
+LULU-10458,Youssef Al-Maktoum,Budget,Groceries,206.98,8,2024-03-03,Debit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10127,Mariam Malik,Loyalty,Groceries,205.711,11,2024-08-23,Cash,Muwaileh,United Arab Emirates
+LULU-10704,Ahmed Mansoor,Budget,Groceries,203.11,10,2024-10-20,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10821,Sara Al-Harbi,Loyalty,Groceries,201.26700000000002,13,2024-08-12,Credit Card,Deira,United Arab Emirates
+LULU-10272,Abdullah Ibrahim,Premium,Groceries,195.22999999999996,9,2024-04-18,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10979,Khaled Al-Farsi,Budget,Groceries,192.62,4,2024-05-18,Credit Card,Al Barsha,United Arab Emirates
+LULU-10097,Mustafa Al-Maktoum,Budget,Groceries,192.4,9,2024-02-17,Cash,Jumeirah,United Arab Emirates
+LULU-10607,Sara Ibrahim,Budget,Groceries,192.05,6,2024-12-15,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10599,Mariam Al-Rashid,Standard,Groceries,187.35,11,2024-01-12,Credit Card,Al Qusais,United Arab Emirates
+LULU-10866,Omar Malik,Budget,Groceries,186.83,7,2024-04-01,Credit Card,Jumeirah,United Arab Emirates
+LULU-10696,Mariam Abbas,Budget,Groceries,186.74,9,2024-05-12,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10158,Fatima Abbas,Budget,Groceries,183.7,5,2024-02-21,Credit Card,Al Barsha,United Arab Emirates
+LULU-10912,Noora Al-Rashid,Budget,Groceries,181.43,9,2024-10-06,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10398,Mustafa Al-Maktoum,Budget,Groceries,180.33,11,2024-10-19,Credit Card,Jumeirah,United Arab Emirates
+LULU-10596,Hamad Al-Rashid,Budget,Groceries,177.02,5,2024-06-23,Cash,Deira,United Arab Emirates
+LULU-10273,Mohammed Malik,Budget,Groceries,175.49,10,2024-01-14,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10876,Noora Khan,Standard,Groceries,173.87,6,2024-06-22,Debit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10352,Omar Mansoor,Budget,Groceries,172.12,10,2024-05-03,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10891,Ahmed Abbas,Loyalty,Groceries,171.65500000000003,8,2024-12-18,Credit Card,Muwaileh,United Arab Emirates
+LULU-10687,Khaled Malik,Premium,Groceries,171.094,4,2024-07-16,Cash,Muwaileh,United Arab Emirates
+LULU-10205,Layla Mansoor,Budget,Groceries,166.67,8,2024-09-01,Debit Card,Al Barsha,United Arab Emirates
+LULU-10574,Layla Ibrahim,Standard,Groceries,162.77,5,2024-09-22,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10856,Fatima Abbas,Budget,Groceries,161.48,7,2024-05-24,Cash,Muwaileh,United Arab Emirates
+LULU-10079,Sara Malik,Budget,Groceries,160.95,7,2024-04-26,Credit Card,Deira,United Arab Emirates
+LULU-10051,Fatima Malik,Loyalty,Groceries,160.501,11,2024-09-08,Debit Card,Al Barsha,United Arab Emirates
+LULU-10160,Youssef Mansoor,Budget,Groceries,158.86,5,2024-12-19,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10171,Aisha Al-Farsi,Budget,Groceries,158.67,4,2024-10-25,Credit Card,Deira,United Arab Emirates
+LULU-10768,Reem Al-Harbi,Loyalty,Groceries,158.29000000000002,8,2024-06-20,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10793,Hamad Al-Farsi,Budget,Groceries,154.7,4,2024-02-21,Credit Card,Al Barsha,United Arab Emirates
+LULU-10964,Layla Khan,Budget,Groceries,153.11,11,2024-09-27,Debit Card,Jumeirah,United Arab Emirates
+LULU-10678,Hamad Ibrahim,Budget,Groceries,150.92,9,2024-01-10,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10656,Ahmed Ibrahim,Budget,Groceries,150.43,9,2024-06-25,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10689,Noora Abbas,Loyalty,Groceries,149.567,12,2024-02-09,Credit Card,Jumeirah,United Arab Emirates
+LULU-10508,Noora Al-Farsi,Budget,Groceries,149.35,7,2024-06-26,Cash,Al Qusais,United Arab Emirates
+LULU-10502,Zainab Mansoor,Budget,Groceries,146.81,7,2024-08-07,Credit Card,Deira,United Arab Emirates
+LULU-10669,Mariam Mansoor,Budget,Groceries,146.12,10,2024-01-20,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10396,Zainab Abbas,Budget,Groceries,144.01,6,2024-07-04,Credit Card,Deira,United Arab Emirates
+LULU-10232,Fatima Khan,Loyalty,Groceries,143.81400000000002,12,2024-08-18,Credit Card,Jumeirah,United Arab Emirates
+LULU-10677,Abdullah Mansoor,Budget,Groceries,143.5,5,2024-10-27,Debit Card,Al Qusais,United Arab Emirates
+LULU-10256,Abdullah Khan,Budget,Groceries,142.78,9,2024-09-25,Debit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10261,Hamad Al-Maktoum,Budget,Groceries,142.33,5,2024-03-22,Lulu Pay,Deira,United Arab Emirates
+LULU-10331,Ahmed Al-Rashid,Budget,Groceries,140.46,5,2024-01-10,Credit Card,Al Qusais,United Arab Emirates
+LULU-10729,Layla Ibrahim,Loyalty,Groceries,134.54100000000003,7,2024-12-08,Credit Card,Al Qusais,United Arab Emirates
+LULU-10849,Reem Ibrahim,Loyalty,Groceries,132.297,9,2024-04-20,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10252,Hamad Khan,Loyalty,Groceries,131.901,6,2024-10-08,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10786,Aisha Ibrahim,Budget,Groceries,129.74,7,2024-06-26,Credit Card,Al Qusais,United Arab Emirates
+LULU-10790,Omar Malik,Budget,Groceries,128.18,11,2024-04-05,Cash,Al Barsha,United Arab Emirates
+LULU-10576,Mustafa Abbas,Standard,Groceries,128.07,5,2024-09-12,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10818,Layla Al-Sayed,Standard,Groceries,127.98,9,2024-09-20,Credit Card,Al Qusais,United Arab Emirates
+LULU-10479,Mariam Khan,Loyalty,Groceries,126.73100000000001,13,2024-04-18,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10002,Youssef Khan,Standard,Groceries,122.73,8,2024-01-12,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10995,Noora Al-Maktoum,Budget,Groceries,118.33,8,2024-02-02,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10386,Reem Al-Sayed,Budget,Groceries,116.74,8,2024-07-04,Credit Card,Al Barsha,United Arab Emirates
+LULU-10267,Mohammed Al-Harbi,Budget,Groceries,113.72,8,2024-04-01,Credit Card,Jumeirah,United Arab Emirates
+LULU-10911,Sara Al-Sayed,Loyalty,Groceries,112.134,6,2024-09-21,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10783,Mariam Al-Farsi,Budget,Groceries,109.4,5,2024-04-21,Credit Card,Al Barsha,United Arab Emirates
+LULU-10493,Noora Al-Maktoum,Budget,Groceries,107.58,10,2024-07-27,Credit Card,Muwaileh,United Arab Emirates
+LULU-10001,Mustafa Al-Maktoum,Budget,Groceries,107.15,6,2024-06-21,Debit Card,Deira,United Arab Emirates
+LULU-10446,Ahmed Al-Rashid,Budget,Groceries,103.71,5,2024-06-27,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10672,Zainab Al-Rashid,Budget,Groceries,103.28,6,2024-12-03,Lulu Pay,Deira,United Arab Emirates
+LULU-10718,Ahmed Malik,Budget,Groceries,103.2,7,2024-07-23,Cash,Al Qusais,United Arab Emirates
+LULU-10869,Aisha Mansoor,Budget,Groceries,102.56,6,2024-09-27,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10852,Sara Khan,Budget,Groceries,99.86,4,2024-07-14,Credit Card,Jumeirah,United Arab Emirates
+LULU-10535,Mohammed Abbas,Premium,Groceries,97.24399999999999,7,2024-08-09,Cash,Jumeirah,United Arab Emirates
+LULU-10338,Mohammed Malik,Loyalty,Groceries,96.37100000000001,9,2024-12-09,Cash,Jumeirah,United Arab Emirates
+LULU-10330,Noora Malik,Budget,Groceries,95.91,5,2024-12-26,Cash,Muwaileh,United Arab Emirates
+LULU-10820,Omar Al-Farsi,Standard,Groceries,90.23,8,2024-02-20,Cash,Al Qusais,United Arab Emirates
+LULU-10041,Layla Al-Maktoum,Budget,Groceries,88.87,11,2024-06-23,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10035,Youssef Abbas,Budget,Groceries,87.47,6,2024-06-23,Credit Card,Muwaileh,United Arab Emirates
+LULU-10787,Noora Malik,Budget,Groceries,84.83,4,2024-08-08,Credit Card,Al Barsha,United Arab Emirates
+LULU-10345,Reem Al-Sayed,Standard,Groceries,81.76,8,2024-03-28,Lulu Pay,Deira,United Arab Emirates
+LULU-10644,Noora Mansoor,Loyalty,Groceries,79.93700000000001,9,2024-03-23,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10130,Mohammed Al-Maktoum,Budget,Groceries,77.57,6,2024-08-09,Debit Card,Al Barsha,United Arab Emirates
+LULU-10722,Mariam Al-Harbi,Loyalty,Groceries,74.063,8,2024-06-27,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10441,Youssef Mansoor,Budget,Groceries,73.14,5,2024-08-09,Credit Card,Deira,United Arab Emirates
+LULU-10986,Ahmed Al-Rashid,Premium,Groceries,72.198,10,2024-11-17,Lulu Pay,Deira,United Arab Emirates
+LULU-10851,Mohammed Ibrahim,Budget,Groceries,70.99,5,2024-10-10,Lulu Pay,Deira,United Arab Emirates
+LULU-10735,Zainab Al-Sayed,Premium,Groceries,70.51799999999999,8,2024-10-13,Credit Card,Jumeirah,United Arab Emirates
+LULU-10991,Mariam Al-Rashid,Budget,Groceries,70.13,9,2024-08-28,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10618,Aisha Al-Harbi,Loyalty,Groceries,69.36600000000001,10,2024-10-20,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10889,Reem Al-Harbi,Budget,Groceries,65.5,11,2024-05-17,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10046,Abdullah Al-Maktoum,Standard,Groceries,62.2,7,2024-10-06,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10886,Layla Abbas,Budget,Groceries,60.83,8,2024-07-13,Credit Card,Al Barsha,United Arab Emirates
+LULU-10932,Fatima Mansoor,Loyalty,Groceries,58.102000000000004,6,2024-06-13,Credit Card,Muwaileh,United Arab Emirates
+LULU-10943,Aisha Al-Maktoum,Budget,Groceries,57.64,6,2024-07-27,Credit Card,Al Qusais,United Arab Emirates
+LULU-10526,Youssef Mansoor,Budget,Groceries,57.25,4,2024-11-25,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10715,Youssef Al-Maktoum,Budget,Groceries,56.67,6,2024-02-12,Lulu Pay,Deira,United Arab Emirates
+LULU-10027,Mohammed Mansoor,Budget,Groceries,56.64,6,2024-03-20,Lulu Pay,Deira,United Arab Emirates
+LULU-10548,Mohammed Al-Maktoum,Premium,Dairy & Eggs,629.384,6,2024-11-10,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10410,Fatima Ibrahim,Premium,Dairy & Eggs,594.776,7,2024-09-01,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10863,Abdullah Al-Farsi,Premium,Dairy & Eggs,543.1999999999999,8,2024-09-04,Cash,Muwaileh,United Arab Emirates
+LULU-10594,Youssef Al-Rashid,Premium,Dairy & Eggs,533.036,9,2024-08-09,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10009,Sara Ibrahim,Loyalty,Dairy & Eggs,477.9170000000001,10,2024-02-15,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10348,Abdullah Ibrahim,Premium,Dairy & Eggs,472.68199999999996,6,2024-04-02,Credit Card,Al Qusais,United Arab Emirates
+LULU-10613,Ahmed Mansoor,Premium,Dairy & Eggs,457.52,10,2024-06-08,Debit Card,Al Barsha,United Arab Emirates
+LULU-10742,Fatima Abbas,Loyalty,Dairy & Eggs,452.43000000000006,11,2024-08-19,Credit Card,Deira,United Arab Emirates
+LULU-10865,Sara Khan,Loyalty,Dairy & Eggs,449.1190000000001,13,2024-12-09,Lulu Pay,Deira,United Arab Emirates
+LULU-10030,Hamad Al-Rashid,Budget,Dairy & Eggs,448.5,9,2024-12-05,Debit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10228,Hamad Malik,Budget,Dairy & Eggs,444.68,4,2024-05-20,Credit Card,Al Barsha,United Arab Emirates
+LULU-10747,Omar Ibrahim,Standard,Dairy & Eggs,444.63,8,2024-08-24,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10294,Zainab Al-Harbi,Standard,Dairy & Eggs,440.4,10,2024-02-03,Credit Card,Muwaileh,United Arab Emirates
+LULU-10080,Sara Al-Farsi,Budget,Dairy & Eggs,439.76,11,2024-11-22,Credit Card,Al Barsha,United Arab Emirates
+LULU-10224,Fatima Ibrahim,Budget,Dairy & Eggs,437.93,10,2024-11-10,Credit Card,Muwaileh,United Arab Emirates
+LULU-10302,Mustafa Khan,Budget,Dairy & Eggs,436.05,10,2024-03-23,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10482,Noora Al-Sayed,Budget,Dairy & Eggs,434.61,9,2024-03-19,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10136,Zainab Al-Sayed,Budget,Dairy & Eggs,434.43,4,2024-04-22,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10405,Mustafa Abbas,Premium,Dairy & Eggs,428.51199999999994,4,2024-08-19,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10067,Omar Al-Harbi,Budget,Dairy & Eggs,428.48,11,2024-09-07,Credit Card,Al Qusais,United Arab Emirates
+LULU-10707,Mariam Al-Sayed,Budget,Dairy & Eggs,428.39,9,2024-08-24,Cash,Al Qusais,United Arab Emirates
+LULU-10005,Sara Khan,Budget,Dairy & Eggs,426.88,9,2024-02-26,Credit Card,Jumeirah,United Arab Emirates
+LULU-10772,Layla Abbas,Loyalty,Dairy & Eggs,426.50300000000004,13,2024-06-03,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10582,Omar Mansoor,Budget,Dairy & Eggs,425.56,11,2024-11-12,Cash,Jumeirah,United Arab Emirates
+LULU-10129,Mohammed Al-Farsi,Budget,Dairy & Eggs,417.5,8,2024-08-05,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10706,Abdullah Khan,Standard,Dairy & Eggs,417.02,10,2024-06-02,Credit Card,Al Barsha,United Arab Emirates
+LULU-10070,Layla Abbas,Loyalty,Dairy & Eggs,416.61400000000003,7,2024-02-05,Cash,Muwaileh,United Arab Emirates
+LULU-10971,Omar Ibrahim,Premium,Dairy & Eggs,415.058,7,2024-11-18,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10173,Aisha Al-Sayed,Budget,Dairy & Eggs,414.14,10,2024-09-15,Credit Card,Deira,United Arab Emirates
+LULU-10651,Omar Ibrahim,Premium,Dairy & Eggs,407.7919999999999,10,2024-02-12,Credit Card,Al Barsha,United Arab Emirates
+LULU-10708,Abdullah Ibrahim,Loyalty,Dairy & Eggs,405.449,11,2024-09-04,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10645,Aisha Ibrahim,Budget,Dairy & Eggs,404.43,7,2024-04-09,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10459,Abdullah Abbas,Loyalty,Dairy & Eggs,401.522,9,2024-04-21,Credit Card,Deira,United Arab Emirates
+LULU-10919,Mustafa Abbas,Budget,Dairy & Eggs,401.5,4,2024-05-16,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10180,Hamad Al-Harbi,Budget,Dairy & Eggs,400.98,6,2024-11-28,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10401,Mariam Al-Sayed,Budget,Dairy & Eggs,400.84,7,2024-06-17,Debit Card,Al Qusais,United Arab Emirates
+LULU-10193,Youssef Al-Maktoum,Budget,Dairy & Eggs,398.61,11,2024-12-04,Lulu Pay,Deira,United Arab Emirates
+LULU-10222,Reem Al-Harbi,Budget,Dairy & Eggs,398.3,10,2024-08-07,Credit Card,Al Qusais,United Arab Emirates
+LULU-10324,Mustafa Malik,Loyalty,Dairy & Eggs,396.74800000000005,9,2024-09-13,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10836,Mariam Malik,Loyalty,Dairy & Eggs,391.74300000000005,13,2024-03-10,Credit Card,Muwaileh,United Arab Emirates
+LULU-10705,Youssef Ibrahim,Premium,Dairy & Eggs,391.37,8,2024-03-16,Credit Card,Muwaileh,United Arab Emirates
+LULU-10982,Fatima Khan,Budget,Dairy & Eggs,391.02,9,2024-10-22,Credit Card,Al Qusais,United Arab Emirates
+LULU-10917,Sara Al-Maktoum,Loyalty,Dairy & Eggs,387.12300000000005,8,2024-04-11,Debit Card,Jumeirah,United Arab Emirates
+LULU-10084,Khaled Ibrahim,Standard,Dairy & Eggs,385.33,5,2024-09-03,Credit Card,Jumeirah,United Arab Emirates
+LULU-10026,Zainab Ibrahim,Budget,Dairy & Eggs,384.12,7,2024-11-06,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10096,Sara Al-Harbi,Budget,Dairy & Eggs,378.72,5,2024-12-10,Credit Card,Jumeirah,United Arab Emirates
+LULU-10025,Khaled Al-Rashid,Loyalty,Dairy & Eggs,375.41900000000004,13,2024-05-20,Debit Card,Muwaileh,United Arab Emirates
+LULU-10754,Abdullah Mansoor,Premium,Dairy & Eggs,374.78,4,2024-02-15,Credit Card,Al Barsha,United Arab Emirates
+LULU-10058,Reem Malik,Budget,Dairy & Eggs,374.48,6,2024-05-12,Credit Card,Al Barsha,United Arab Emirates
+LULU-10577,Omar Al-Maktoum,Budget,Dairy & Eggs,369.89,11,2024-07-07,Cash,Al Barsha,United Arab Emirates
+LULU-10201,Khaled Al-Farsi,Budget,Dairy & Eggs,368.72,7,2024-05-24,Debit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10430,Youssef Ibrahim,Standard,Dairy & Eggs,368.5,10,2024-02-09,Credit Card,Deira,United Arab Emirates
+LULU-10443,Noora Ibrahim,Standard,Dairy & Eggs,362.53,8,2024-03-11,Debit Card,Deira,United Arab Emirates
+LULU-10724,Fatima Al-Harbi,Loyalty,Dairy & Eggs,360.37100000000004,7,2024-09-26,Credit Card,Muwaileh,United Arab Emirates
+LULU-10111,Ahmed Al-Farsi,Budget,Dairy & Eggs,357.8,9,2024-10-22,Lulu Pay,Deira,United Arab Emirates
+LULU-10854,Aisha Al-Rashid,Budget,Dairy & Eggs,354.76,4,2024-11-17,Debit Card,Deira,United Arab Emirates
+LULU-10736,Layla Ibrahim,Budget,Dairy & Eggs,353.22,7,2024-07-02,Lulu Pay,Deira,United Arab Emirates
+LULU-10796,Mustafa Abbas,Budget,Dairy & Eggs,347.93,4,2024-01-25,Cash,Al Qusais,United Arab Emirates
+LULU-10491,Khaled Khan,Standard,Dairy & Eggs,345.15,5,2024-04-09,Credit Card,Al Barsha,United Arab Emirates
+LULU-10295,Khaled Al-Maktoum,Loyalty,Dairy & Eggs,338.31600000000003,7,2024-07-18,Credit Card,Deira,United Arab Emirates
+LULU-10972,Youssef Al-Farsi,Budget,Dairy & Eggs,335.46,11,2024-02-17,Credit Card,Deira,United Arab Emirates
+LULU-10014,Khaled Al-Harbi,Budget,Dairy & Eggs,335.3,4,2024-05-26,Credit Card,Muwaileh,United Arab Emirates
+LULU-10425,Abdullah Al-Rashid,Standard,Dairy & Eggs,331.54,5,2024-07-21,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10336,Youssef Al-Rashid,Premium,Dairy & Eggs,329.79799999999994,11,2024-12-01,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10095,Khaled Al-Harbi,Budget,Dairy & Eggs,328.6,4,2024-03-03,Cash,Al Qusais,United Arab Emirates
+LULU-10620,Mohammed Al-Sayed,Budget,Dairy & Eggs,327.33,6,2024-03-20,Cash,Al Qusais,United Arab Emirates
+LULU-10433,Mustafa Al-Sayed,Budget,Dairy & Eggs,325.22,8,2024-05-06,Credit Card,Muwaileh,United Arab Emirates
+LULU-10592,Mohammed Ibrahim,Loyalty,Dairy & Eggs,323.74100000000004,7,2024-03-11,Cash,Al Barsha,United Arab Emirates
+LULU-10583,Layla Abbas,Budget,Dairy & Eggs,319.11,4,2024-05-26,Cash,Muwaileh,United Arab Emirates
+LULU-10087,Zainab Abbas,Budget,Dairy & Eggs,318.68,11,2024-02-28,Credit Card,Al Qusais,United Arab Emirates
+LULU-10311,Layla Ibrahim,Loyalty,Dairy & Eggs,313.808,9,2024-03-24,Credit Card,Al Qusais,United Arab Emirates
+LULU-10684,Mustafa Abbas,Budget,Dairy & Eggs,313.24,4,2024-03-16,Credit Card,Deira,United Arab Emirates
+LULU-10351,Mohammed Al-Sayed,Budget,Dairy & Eggs,312.11,4,2024-08-23,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10652,Khaled Ibrahim,Budget,Dairy & Eggs,310.84,8,2024-10-07,Credit Card,Deira,United Arab Emirates
+LULU-10376,Khaled Al-Sayed,Standard,Dairy & Eggs,304.56,10,2024-07-17,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10153,Omar Al-Harbi,Budget,Dairy & Eggs,303.24,8,2024-07-10,Debit Card,Al Qusais,United Arab Emirates
+LULU-10143,Sara Mansoor,Loyalty,Dairy & Eggs,299.959,13,2024-02-03,Credit Card,Muwaileh,United Arab Emirates
+LULU-10451,Mariam Al-Rashid,Budget,Dairy & Eggs,298.94,5,2024-06-04,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10905,Youssef Al-Harbi,Loyalty,Dairy & Eggs,297.25300000000004,13,2024-06-21,Credit Card,Muwaileh,United Arab Emirates
+LULU-10340,Ahmed Khan,Budget,Dairy & Eggs,295.39,8,2024-03-27,Credit Card,Muwaileh,United Arab Emirates
+LULU-10370,Hamad Malik,Budget,Dairy & Eggs,294.31,8,2024-04-24,Cash,Jumeirah,United Arab Emirates
+LULU-10543,Ahmed Al-Rashid,Budget,Dairy & Eggs,288.12,9,2024-10-07,Lulu Pay,Deira,United Arab Emirates
+LULU-10562,Khaled Al-Rashid,Budget,Dairy & Eggs,287.63,7,2024-08-08,Credit Card,Al Barsha,United Arab Emirates
+LULU-10003,Reem Khan,Loyalty,Dairy & Eggs,285.90100000000007,12,2024-10-28,Debit Card,Muwaileh,United Arab Emirates
+LULU-10987,Youssef Khan,Budget,Dairy & Eggs,285.25,6,2024-05-05,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10436,Youssef Al-Sayed,Loyalty,Dairy & Eggs,284.372,7,2024-12-27,Cash,Al Qusais,United Arab Emirates
+LULU-10156,Omar Ibrahim,Budget,Dairy & Eggs,276.56,5,2024-07-15,Debit Card,Muwaileh,United Arab Emirates
+LULU-10633,Hamad Al-Farsi,Budget,Dairy & Eggs,276.17,10,2024-09-10,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10328,Aisha Al-Rashid,Budget,Dairy & Eggs,276.13,6,2024-03-25,Debit Card,Deira,United Arab Emirates
+LULU-10475,Layla Al-Harbi,Budget,Dairy & Eggs,274.04,4,2024-01-25,Credit Card,Al Barsha,United Arab Emirates
+LULU-10439,Noora Al-Sayed,Standard,Dairy & Eggs,268.79,11,2024-01-23,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10920,Mariam Al-Sayed,Budget,Dairy & Eggs,268.27,8,2024-04-28,Cash,Deira,United Arab Emirates
+LULU-10861,Layla Malik,Budget,Dairy & Eggs,263.66,9,2024-04-19,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10231,Layla Al-Sayed,Budget,Dairy & Eggs,258.69,10,2024-12-06,Credit Card,Muwaileh,United Arab Emirates
+LULU-10990,Mohammed Al-Harbi,Budget,Dairy & Eggs,254.9,9,2024-10-03,Debit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10756,Reem Al-Harbi,Loyalty,Dairy & Eggs,253.561,6,2024-08-20,Cash,Jumeirah,United Arab Emirates
+LULU-10858,Layla Ibrahim,Loyalty,Dairy & Eggs,248.41300000000004,11,2024-07-20,Credit Card,Jumeirah,United Arab Emirates
+LULU-10590,Hamad Mansoor,Loyalty,Dairy & Eggs,247.79700000000003,11,2024-01-12,Credit Card,Al Qusais,United Arab Emirates
+LULU-10606,Mohammed Abbas,Budget,Dairy & Eggs,247.13,5,2024-04-15,Cash,Jumeirah,United Arab Emirates
+LULU-10817,Layla Malik,Budget,Dairy & Eggs,243.4,6,2024-02-24,Lulu Pay,Deira,United Arab Emirates
+LULU-10237,Omar Abbas,Loyalty,Dairy & Eggs,234.036,13,2024-09-21,Cash,Al Barsha,United Arab Emirates
+LULU-10166,Zainab Al-Maktoum,Budget,Dairy & Eggs,232.06,6,2024-10-07,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10928,Khaled Al-Harbi,Budget,Dairy & Eggs,229.71,6,2024-01-05,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10339,Fatima Al-Rashid,Loyalty,Dairy & Eggs,229.229,13,2024-08-18,Credit Card,Deira,United Arab Emirates
+LULU-10102,Sara Ibrahim,Budget,Dairy & Eggs,228.96,6,2024-03-15,Credit Card,Jumeirah,United Arab Emirates
+LULU-10777,Abdullah Abbas,Budget,Dairy & Eggs,228.88,7,2024-06-22,Lulu Pay,Deira,United Arab Emirates
+LULU-10800,Khaled Al-Sayed,Budget,Dairy & Eggs,228.69,5,2024-05-28,Cash,Al Qusais,United Arab Emirates
+LULU-10541,Fatima Al-Harbi,Budget,Dairy & Eggs,227.54,10,2024-02-17,Credit Card,Muwaileh,United Arab Emirates
+LULU-10973,Abdullah Ibrahim,Budget,Dairy & Eggs,221.02,11,2024-10-18,Cash,Jumeirah,United Arab Emirates
+LULU-10438,Abdullah Al-Rashid,Loyalty,Dairy & Eggs,218.57,13,2024-11-21,Lulu Pay,Deira,United Arab Emirates
+LULU-10240,Abdullah Al-Harbi,Loyalty,Dairy & Eggs,216.23800000000003,12,2024-05-19,Credit Card,Al Barsha,United Arab Emirates
+LULU-10719,Mustafa Al-Sayed,Standard,Dairy & Eggs,213.63,9,2024-07-19,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10666,Mohammed Al-Harbi,Budget,Dairy & Eggs,210.81,11,2024-11-14,Credit Card,Al Barsha,United Arab Emirates
+LULU-10778,Reem Al-Maktoum,Budget,Dairy & Eggs,210.6,6,2024-02-06,Cash,Al Qusais,United Arab Emirates
+LULU-10585,Khaled Al-Maktoum,Loyalty,Dairy & Eggs,209.53900000000002,6,2024-08-26,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10031,Youssef Khan,Loyalty,Dairy & Eggs,208.64800000000002,13,2024-03-20,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10473,Mustafa Al-Maktoum,Budget,Dairy & Eggs,202.28,10,2024-10-10,Credit Card,Al Qusais,United Arab Emirates
+LULU-10595,Mariam Al-Rashid,Loyalty,Dairy & Eggs,201.168,7,2024-08-19,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10930,Youssef Mansoor,Budget,Dairy & Eggs,200.13,5,2024-02-25,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10428,Fatima Ibrahim,Budget,Dairy & Eggs,197.48,7,2024-09-28,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10420,Fatima Ibrahim,Loyalty,Dairy & Eggs,194.733,12,2024-01-26,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10371,Khaled Khan,Premium,Dairy & Eggs,192.682,6,2024-04-28,Credit Card,Jumeirah,United Arab Emirates
+LULU-10463,Mariam Mansoor,Budget,Dairy & Eggs,191.22,10,2024-07-07,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10909,Mariam Abbas,Standard,Dairy & Eggs,189.85,10,2024-11-24,Debit Card,Jumeirah,United Arab Emirates
+LULU-10373,Sara Ibrahim,Budget,Dairy & Eggs,188.09,10,2024-07-09,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10145,Aisha Ibrahim,Premium,Dairy & Eggs,186.41,6,2024-03-04,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10361,Mariam Malik,Standard,Dairy & Eggs,182.16,9,2024-09-24,Credit Card,Jumeirah,United Arab Emirates
+LULU-10745,Mustafa Abbas,Budget,Dairy & Eggs,174.83,6,2024-11-06,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10123,Hamad Al-Farsi,Budget,Dairy & Eggs,174.69,8,2024-11-23,Credit Card,Deira,United Arab Emirates
+LULU-10888,Ahmed Al-Sayed,Budget,Dairy & Eggs,171.65,9,2024-06-06,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10360,Khaled Mansoor,Budget,Dairy & Eggs,169.97,9,2024-09-04,Credit Card,Deira,United Arab Emirates
+LULU-10934,Aisha Ibrahim,Standard,Dairy & Eggs,169.77,9,2024-02-12,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10794,Reem Mansoor,Standard,Dairy & Eggs,169.69,7,2024-01-24,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10604,Aisha Abbas,Budget,Dairy & Eggs,169.54,11,2024-01-22,Credit Card,Muwaileh,United Arab Emirates
+LULU-10597,Reem Al-Sayed,Budget,Dairy & Eggs,162.65,5,2024-04-26,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10530,Mariam Al-Maktoum,Budget,Dairy & Eggs,162.35,5,2024-08-22,Cash,Al Barsha,United Arab Emirates
+LULU-10059,Khaled Al-Maktoum,Budget,Dairy & Eggs,159.58,7,2024-02-19,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10461,Omar Mansoor,Loyalty,Dairy & Eggs,155.62800000000001,6,2024-01-22,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10101,Zainab Al-Sayed,Budget,Dairy & Eggs,150.97,10,2024-03-15,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10903,Fatima Al-Sayed,Premium,Dairy & Eggs,148.23199999999997,10,2024-08-16,Cash,Jumeirah,United Arab Emirates
+LULU-10359,Layla Malik,Budget,Dairy & Eggs,146.76,11,2024-01-24,Credit Card,Muwaileh,United Arab Emirates
+LULU-10945,Aisha Al-Rashid,Standard,Dairy & Eggs,143.21,10,2024-07-26,Credit Card,Jumeirah,United Arab Emirates
+LULU-10881,Abdullah Abbas,Budget,Dairy & Eggs,142.96,4,2024-09-02,Credit Card,Deira,United Arab Emirates
+LULU-10727,Hamad Al-Rashid,Loyalty,Dairy & Eggs,141.372,10,2024-01-28,Credit Card,Al Qusais,United Arab Emirates
+LULU-10632,Omar Al-Harbi,Loyalty,Dairy & Eggs,134.717,8,2024-05-15,Cash,Muwaileh,United Arab Emirates
+LULU-10957,Abdullah Al-Farsi,Budget,Dairy & Eggs,132.72,4,2024-11-16,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10617,Hamad Abbas,Budget,Dairy & Eggs,131.7,7,2024-06-05,Debit Card,Al Barsha,United Arab Emirates
+LULU-10469,Noora Al-Farsi,Budget,Dairy & Eggs,131.43,8,2024-04-03,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10142,Omar Abbas,Budget,Dairy & Eggs,128.45,10,2024-08-22,Credit Card,Jumeirah,United Arab Emirates
+LULU-10850,Omar Abbas,Loyalty,Dairy & Eggs,128.11700000000002,9,2024-11-02,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10537,Ahmed Al-Rashid,Budget,Dairy & Eggs,127.99,7,2024-06-26,Debit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10460,Layla Al-Maktoum,Standard,Dairy & Eggs,126.64,8,2024-04-20,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10310,Youssef Al-Maktoum,Budget,Dairy & Eggs,121.35,5,2024-06-14,Credit Card,Al Barsha,United Arab Emirates
+LULU-10602,Hamad Ibrahim,Budget,Dairy & Eggs,120.88,11,2024-05-03,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10226,Layla Al-Harbi,Standard,Dairy & Eggs,116.82,7,2024-12-25,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10485,Abdullah Abbas,Budget,Dairy & Eggs,115.13,4,2024-01-12,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10032,Noora Al-Harbi,Budget,Dairy & Eggs,114.65,9,2024-08-20,Cash,Muwaileh,United Arab Emirates
+LULU-10840,Sara Abbas,Loyalty,Dairy & Eggs,113.674,7,2024-12-10,Debit Card,Deira,United Arab Emirates
+LULU-10483,Sara Khan,Standard,Dairy & Eggs,112.91,7,2024-12-23,Credit Card,Muwaileh,United Arab Emirates
+LULU-10369,Fatima Mansoor,Budget,Dairy & Eggs,106.01,7,2024-10-01,Cash,Jumeirah,United Arab Emirates
+LULU-10791,Zainab Abbas,Loyalty,Dairy & Eggs,105.556,9,2024-02-27,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10090,Layla Mansoor,Budget,Dairy & Eggs,104.55,7,2024-02-06,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10922,Sara Abbas,Budget,Dairy & Eggs,102.13,6,2024-04-05,Credit Card,Deira,United Arab Emirates
+LULU-10688,Hamad Malik,Standard,Dairy & Eggs,100.73,8,2024-12-02,Credit Card,Deira,United Arab Emirates
+LULU-10478,Mariam Al-Harbi,Budget,Dairy & Eggs,97.55,4,2024-12-16,Cash,Al Barsha,United Arab Emirates
+LULU-10960,Mariam Khan,Budget,Dairy & Eggs,96.3,6,2024-10-27,Cash,Deira,United Arab Emirates
+LULU-10112,Mustafa Al-Harbi,Budget,Dairy & Eggs,95.93,5,2024-06-05,Cash,Deira,United Arab Emirates
+LULU-10172,Ahmed Ibrahim,Budget,Dairy & Eggs,94.19,9,2024-08-18,Credit Card,Muwaileh,United Arab Emirates
+LULU-10075,Noora Al-Farsi,Loyalty,Dairy & Eggs,91.476,6,2024-06-21,Debit Card,Deira,United Arab Emirates
+LULU-10609,Youssef Khan,Loyalty,Dairy & Eggs,91.39900000000002,8,2024-05-26,Cash,Jumeirah,United Arab Emirates
+LULU-10568,Sara Al-Rashid,Budget,Dairy & Eggs,90.39,7,2024-05-20,Debit Card,Muwaileh,United Arab Emirates
+LULU-10332,Aisha Al-Harbi,Budget,Dairy & Eggs,89.03,11,2024-03-07,Cash,Muwaileh,United Arab Emirates
+LULU-10808,Youssef Al-Harbi,Budget,Dairy & Eggs,87.09,5,2024-09-10,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10933,Khaled Al-Sayed,Budget,Dairy & Eggs,83.59,5,2024-12-05,Credit Card,Jumeirah,United Arab Emirates
+LULU-10196,Khaled Al-Rashid,Budget,Dairy & Eggs,82.95,9,2024-04-22,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10853,Sara Al-Rashid,Premium,Dairy & Eggs,80.892,9,2024-04-08,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10941,Youssef Al-Farsi,Premium,Dairy & Eggs,79.338,9,2024-05-27,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10044,Omar Al-Rashid,Budget,Dairy & Eggs,78.38,9,2024-12-19,Credit Card,Deira,United Arab Emirates
+LULU-10065,Layla Mansoor,Standard,Dairy & Eggs,71.39,8,2024-09-19,Credit Card,Deira,United Arab Emirates
+LULU-10712,Youssef Al-Harbi,Budget,Dairy & Eggs,70.39,5,2024-02-02,Cash,Jumeirah,United Arab Emirates
+LULU-10093,Hamad Al-Farsi,Budget,Dairy & Eggs,68.34,9,2024-05-02,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10329,Mohammed Abbas,Loyalty,Dairy & Eggs,64.691,10,2024-04-10,Credit Card,Muwaileh,United Arab Emirates
+LULU-10819,Aisha Ibrahim,Budget,Dairy & Eggs,64.58,7,2024-08-23,Credit Card,Al Barsha,United Arab Emirates
+LULU-10939,Youssef Al-Rashid,Budget,Dairy & Eggs,63.76,4,2024-08-21,Credit Card,Deira,United Arab Emirates
+LULU-10655,Youssef Al-Sayed,Loyalty,Dairy & Eggs,63.08500000000001,7,2024-12-10,Credit Card,Jumeirah,United Arab Emirates
+LULU-10034,Reem Al-Harbi,Loyalty,Dairy & Eggs,62.953,11,2024-05-16,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10968,Mariam Abbas,Budget,Dairy & Eggs,62.54,9,2024-03-28,Debit Card,Jumeirah,United Arab Emirates
+LULU-10157,Abdullah Al-Farsi,Budget,Dairy & Eggs,62.47,7,2024-03-03,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10674,Noora Malik,Budget,Dairy & Eggs,60.28,9,2024-12-20,Cash,Jumeirah,United Arab Emirates
+LULU-10660,Reem Al-Harbi,Budget,Dairy & Eggs,59.87,8,2024-10-14,Credit Card,Al Qusais,United Arab Emirates
+LULU-10169,Ahmed Al-Harbi,Budget,Dairy & Eggs,59.76,5,2024-02-27,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10194,Layla Ibrahim,Budget,Dairy & Eggs,58.85,9,2024-03-11,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10826,Mohammed Al-Rashid,Budget,Dairy & Eggs,56.41,7,2024-02-13,Lulu Pay,Deira,United Arab Emirates
+LULU-10381,Mustafa Malik,Budget,Dairy & Eggs,54.68,9,2024-12-03,Cash,Jumeirah,United Arab Emirates
+LULU-10867,Ahmed Al-Harbi,Budget,Dairy & Eggs,53.63,9,2024-07-28,Cash,Muwaileh,United Arab Emirates
+LULU-10321,Abdullah Al-Harbi,Standard,Dairy & Eggs,52.81,4,2024-06-14,Lulu Pay,Deira,United Arab Emirates
+LULU-10033,Noora Al-Farsi,Standard,Dairy & Eggs,52.02,11,2024-02-02,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10629,Fatima Al-Harbi,Premium,Fresh Produce,610.8199999999999,7,2024-01-09,Credit Card,Muwaileh,United Arab Emirates
+LULU-10230,Reem Khan,Premium,Fresh Produce,610.47,6,2024-02-25,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10760,Fatima Ibrahim,Premium,Fresh Produce,542.5699999999999,9,2024-02-23,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10131,Fatima Al-Harbi,Premium,Fresh Produce,539.784,9,2024-07-25,Credit Card,Muwaileh,United Arab Emirates
+LULU-10050,Khaled Ibrahim,Premium,Fresh Produce,538.146,4,2024-12-21,Credit Card,Al Qusais,United Arab Emirates
+LULU-10177,Layla Ibrahim,Premium,Fresh Produce,532.672,8,2024-05-22,Debit Card,Al Barsha,United Arab Emirates
+LULU-10958,Ahmed Al-Farsi,Loyalty,Fresh Produce,494.10900000000004,12,2024-03-08,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10692,Hamad Ibrahim,Premium,Fresh Produce,492.87,10,2024-09-04,Credit Card,Muwaileh,United Arab Emirates
+LULU-10141,Omar Ibrahim,Loyalty,Fresh Produce,485.72700000000003,13,2024-02-07,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10779,Reem Khan,Loyalty,Fresh Produce,474.595,7,2024-01-15,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10063,Abdullah Al-Farsi,Loyalty,Fresh Produce,464.53000000000003,10,2024-12-17,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10235,Hamad Mansoor,Premium,Fresh Produce,456.13399999999996,4,2024-01-19,Debit Card,Muwaileh,United Arab Emirates
+LULU-10415,Mustafa Al-Rashid,Loyalty,Fresh Produce,453.684,10,2024-07-21,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10814,Ahmed Khan,Loyalty,Fresh Produce,448.09600000000006,12,2024-07-09,Credit Card,Muwaileh,United Arab Emirates
+LULU-10758,Aisha Mansoor,Premium,Fresh Produce,440.04799999999994,9,2024-06-17,Debit Card,Jumeirah,United Arab Emirates
+LULU-10901,Reem Al-Harbi,Standard,Fresh Produce,439.03,4,2024-03-10,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10292,Layla Al-Farsi,Budget,Fresh Produce,438.3,6,2024-07-19,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10400,Zainab Al-Farsi,Loyalty,Fresh Produce,437.78900000000004,10,2024-06-11,Cash,Jumeirah,United Arab Emirates
+LULU-10028,Hamad Khan,Standard,Fresh Produce,424.69,4,2024-11-28,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10011,Zainab Al-Maktoum,Loyalty,Fresh Produce,413.79800000000006,6,2024-08-03,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10806,Youssef Al-Harbi,Loyalty,Fresh Produce,402.17100000000005,6,2024-03-06,Credit Card,Jumeirah,United Arab Emirates
+LULU-10342,Aisha Al-Rashid,Budget,Fresh Produce,392.75,4,2024-12-11,Cash,Al Barsha,United Arab Emirates
+LULU-10264,Ahmed Abbas,Loyalty,Fresh Produce,387.71700000000004,6,2024-12-08,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10782,Mariam Khan,Standard,Fresh Produce,373.31,10,2024-09-01,Cash,Deira,United Arab Emirates
+LULU-10544,Fatima Abbas,Budget,Fresh Produce,364.68,5,2024-05-20,Credit Card,Deira,United Arab Emirates
+LULU-10614,Youssef Al-Farsi,Loyalty,Fresh Produce,358.06100000000004,7,2024-05-15,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10985,Aisha Malik,Premium,Fresh Produce,346.388,6,2024-08-20,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10110,Noora Al-Maktoum,Premium,Fresh Produce,344.82,9,2024-03-25,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10802,Hamad Al-Rashid,Standard,Fresh Produce,342.5,5,2024-04-14,Cash,Al Qusais,United Arab Emirates
+LULU-10859,Khaled Abbas,Standard,Fresh Produce,335.15,9,2024-03-21,Cash,Al Barsha,United Arab Emirates
+LULU-10038,Layla Malik,Premium,Fresh Produce,333.17199999999997,9,2024-05-06,Credit Card,Al Barsha,United Arab Emirates
+LULU-10998,Omar Al-Rashid,Standard,Fresh Produce,326.77,9,2024-08-01,Debit Card,Deira,United Arab Emirates
+LULU-10558,Ahmed Al-Maktoum,Loyalty,Fresh Produce,318.69200000000006,12,2024-08-12,Credit Card,Al Qusais,United Arab Emirates
+LULU-10137,Noora Ibrahim,Loyalty,Fresh Produce,316.965,10,2024-07-19,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10733,Hamad Al-Rashid,Standard,Fresh Produce,315.03,10,2024-02-15,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10052,Mustafa Al-Sayed,Standard,Fresh Produce,312.84,8,2024-06-23,Credit Card,Al Qusais,United Arab Emirates
+LULU-10552,Ahmed Malik,Premium,Fresh Produce,302.30199999999996,8,2024-10-19,Cash,Jumeirah,United Arab Emirates
+LULU-10146,Omar Khan,Standard,Fresh Produce,299.9,6,2024-10-02,Credit Card,Deira,United Arab Emirates
+LULU-10416,Fatima Al-Sayed,Budget,Fresh Produce,291.4,8,2024-03-25,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10565,Layla Al-Maktoum,Standard,Fresh Produce,291.22,4,2024-08-15,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10251,Khaled Mansoor,Budget,Fresh Produce,290.64,9,2024-05-22,Cash,Al Qusais,United Arab Emirates
+LULU-10358,Noora Al-Farsi,Loyalty,Fresh Produce,289.377,8,2024-04-14,Credit Card,Jumeirah,United Arab Emirates
+LULU-10601,Ahmed Al-Farsi,Loyalty,Fresh Produce,275.67100000000005,7,2024-08-22,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10619,Omar Khan,Budget,Fresh Produce,274.88,9,2024-07-12,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10976,Noora Al-Sayed,Standard,Fresh Produce,271.68,4,2024-01-22,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10798,Abdullah Khan,Loyalty,Fresh Produce,268.26800000000003,6,2024-04-03,Debit Card,Jumeirah,United Arab Emirates
+LULU-10202,Mariam Al-Harbi,Loyalty,Fresh Produce,266.87100000000004,11,2024-07-17,Lulu Pay,Deira,United Arab Emirates
+LULU-10591,Omar Al-Maktoum,Loyalty,Fresh Produce,259.89700000000005,10,2024-09-25,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10685,Noora Al-Rashid,Loyalty,Fresh Produce,253.91300000000004,6,2024-03-06,Credit Card,Jumeirah,United Arab Emirates
+LULU-10403,Mustafa Al-Maktoum,Loyalty,Fresh Produce,225.08200000000002,8,2024-09-19,Cash,Dubai Silicon Oasis,United Arab Emirates
+LULU-10239,Noora Malik,Standard,Fresh Produce,224.23,6,2024-01-24,Credit Card,Al Barsha,United Arab Emirates
+LULU-10073,Mustafa Mansoor,Standard,Fresh Produce,223.78,8,2024-02-28,Cash,Deira,United Arab Emirates
+LULU-10774,Layla Mansoor,Premium,Fresh Produce,208.292,8,2024-12-27,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10100,Khaled Al-Maktoum,Standard,Fresh Produce,198.19,9,2024-10-28,Credit Card,Al Qusais,United Arab Emirates
+LULU-10103,Youssef Mansoor,Loyalty,Fresh Produce,196.71300000000002,12,2024-06-26,Cash,Al Barsha,United Arab Emirates
+LULU-10610,Ahmed Malik,Premium,Fresh Produce,190.23199999999997,4,2024-11-16,Lulu Pay,Deira,United Arab Emirates
+LULU-10549,Abdullah Malik,Loyalty,Fresh Produce,188.77100000000004,10,2024-01-03,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10017,Zainab Malik,Loyalty,Fresh Produce,182.49,11,2024-12-02,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10040,Ahmed Al-Farsi,Loyalty,Fresh Produce,173.129,8,2024-02-25,Credit Card,Muwaileh,United Arab Emirates
+LULU-10657,Youssef Khan,Premium,Fresh Produce,172.73199999999997,4,2024-02-12,Credit Card,Deira,United Arab Emirates
+LULU-10954,Fatima Ibrahim,Premium,Fresh Produce,167.874,8,2024-03-11,Credit Card,Deira,United Arab Emirates
+LULU-10753,Mohammed Al-Farsi,Loyalty,Fresh Produce,164.47200000000004,12,2024-09-02,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10624,Khaled Al-Sayed,Loyalty,Fresh Produce,151.99800000000002,13,2024-07-24,Cash,Al Qusais,United Arab Emirates
+LULU-10497,Ahmed Al-Rashid,Loyalty,Fresh Produce,148.75300000000001,8,2024-05-27,Lulu Pay,Deira,United Arab Emirates
+LULU-10325,Zainab Ibrahim,Premium,Fresh Produce,147.98,7,2024-02-01,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10641,Fatima Malik,Loyalty,Fresh Produce,147.895,7,2024-07-13,Lulu Pay,Jumeirah,United Arab Emirates
+LULU-10414,Youssef Ibrahim,Loyalty,Fresh Produce,147.88400000000001,7,2024-07-03,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10470,Youssef Al-Rashid,Budget,Fresh Produce,139.72,10,2024-04-15,Cash,Jumeirah,United Arab Emirates
+LULU-10246,Omar Al-Sayed,Standard,Fresh Produce,128.86,8,2024-06-19,Credit Card,Jumeirah,United Arab Emirates
+LULU-10188,Youssef Al-Farsi,Loyalty,Fresh Produce,125.73,9,2024-02-14,Lulu Pay,Deira,United Arab Emirates
+LULU-10200,Omar Al-Harbi,Budget,Fresh Produce,124.21,4,2024-05-08,Lulu Pay,Muwaileh,United Arab Emirates
+LULU-10344,Omar Mansoor,Loyalty,Fresh Produce,112.12300000000002,10,2024-09-03,Cash,Al Barsha,United Arab Emirates
+LULU-10397,Layla Malik,Budget,Fresh Produce,110.21,5,2024-11-04,Cash,Al Barsha,United Arab Emirates
+LULU-10951,Aisha Al-Sayed,Standard,Fresh Produce,109.77,4,2024-05-09,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10343,Mustafa Al-Rashid,Loyalty,Fresh Produce,108.867,11,2024-02-04,Debit Card,Al Qusais,United Arab Emirates
+LULU-10996,Khaled Al-Farsi,Loyalty,Fresh Produce,103.46600000000001,11,2024-12-17,Credit Card,Muwaileh,United Arab Emirates
+LULU-10898,Noora Abbas,Standard,Fresh Produce,101.34,10,2024-12-07,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10427,Ahmed Malik,Budget,Fresh Produce,91.92,9,2024-07-28,Lulu Pay,Dubai Silicon Oasis,United Arab Emirates
+LULU-10737,Omar Abbas,Loyalty,Fresh Produce,91.839,10,2024-10-19,Lulu Pay,Al Barsha,United Arab Emirates
+LULU-10313,Hamad Abbas,Loyalty,Fresh Produce,88.902,11,2024-08-13,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10514,Mariam Al-Harbi,Loyalty,Fresh Produce,88.71500000000002,13,2024-09-13,Credit Card,Jumeirah,United Arab Emirates
+LULU-10297,Mohammed Malik,Standard,Fresh Produce,88.0,11,2024-11-14,Cash,Al Barsha,United Arab Emirates
+LULU-10442,Mohammed Al-Sayed,Budget,Fresh Produce,80.24,4,2024-01-27,Lulu Pay,Al Qusais,United Arab Emirates
+LULU-10510,Mariam Al-Maktoum,Loyalty,Fresh Produce,79.717,11,2024-08-04,Credit Card,Al Barsha,United Arab Emirates
+LULU-10788,Abdullah Ibrahim,Premium,Fresh Produce,73.38799999999999,4,2024-12-24,Credit Card,Al Barsha,United Arab Emirates
+LULU-10465,Hamad Khan,Loyalty,Fresh Produce,69.432,11,2024-09-27,Credit Card,Dubai Silicon Oasis,United Arab Emirates
+LULU-10409,Khaled Al-Rashid,Standard,Fresh Produce,50.93,6,2024-01-04,Lulu Pay,Al Barsha,United Arab Emirates
